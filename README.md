@@ -9,4 +9,5 @@
 
 -Jahr (advanced)
 
-## The plan is to make a gui as well 
+## Links
+https://www.swisstopo.admin.ch/en/maps-data-online/calculation-services/navref.html
