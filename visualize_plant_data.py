@@ -4,12 +4,9 @@
 # Schweizer Koordinaten Bezugsystem = (LV95 CH1903+ / LV95 EPSG 2056)
 import numpy as np
 import pandas as pd
-
 import matplotlib.pyplot as plt
 
-
 large = 22; med = 16; small = 12
-
 
 
 """
@@ -26,24 +23,28 @@ plt.rcParams.update(params)
 """
 
 
-
-plant_data = pd.read_csv("MAR infoflora_200274_Pilatus.csv",sep=";", encoding="iso-8859-1", usecols=['Koordx', 'Koordy', 'Trivialname'])
+plant_data = pd.read_csv("MAR infoflora_200274_Pilatus.csv",sep=";", encoding="iso-8859-1", usecols=['Koordx', 'Koordy', 'Trivialname', 'Jahr'])
 df = pd.DataFrame(plant_data)
+print((df[df['Trivialname'] == 'Felsenmispel']))
+
+
 x1 = []
 y1 = []
-
 x1 = df['Koordx'].to_list()
 y1 = df['Koordy'].to_list()
 name = df['Trivialname'].to_list()
 
 
+
+
 plt.style.use('seaborn-whitegrid')
 plt.xlabel('Koordx')
 plt.ylabel('Koordy')
-plt.title('Scatter Plot')
+plt.title('Pilatus Pflanzen')
 
-plt.scatter(np.array(x1), np.array(y1))
 
-plt.show()
+#Write a function which gets all plants where name = 
+
+#plt.show()
 
 
