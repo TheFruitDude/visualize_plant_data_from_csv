@@ -1,13 +1,17 @@
+#!/usr/bin/python3
+# coding=utf-8
+
 #api3.geo.admin.ch
 
-# headers = Taxon ID	Gruppe	Trivialname	Taxon	Gemeinde(n)	Kanton(e) 	Fundort	H�he	Koordx	Koordy	Radius	R�umliche Zusammenfassung	Anzahl	n Nachweise 	Jahr	Monat	Tag	Fortpflanzungsnachweis	Herkunft	Beobachter/Sammler	ID Beobachtung	Rote Liste	Priorit�t CH	UZL	WZL	Massnahmebedarf	Monitoring-Bedarf	NHV	SMARAGD	infoflora: Kantonaler Schutzstatus	infoflora: Rote Liste regional	Habitat	Substrat	swisslichens: Ecotyp	Ordnung	Familie	swissfungi: funktionelle Gruppe	Indigenat CH	Standortfremd	Einf�hrung
 # Schweizer Koordinaten Bezugsystem = (LV95 CH1903+ / LV95 EPSG 2056)
+
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 
-large = 22; med = 16; small = 12
 """
+large = 22; med = 16; small = 12
+
 params = {'axes.titlesize': large,
           'legend.fontsize': med,
           'figure.figsize': (16, 10),
