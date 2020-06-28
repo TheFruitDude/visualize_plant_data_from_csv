@@ -22,3 +22,8 @@ https://jakevdp.github.io/PythonDataScienceHandbook/04.13-geographic-data-with-b
 
 ### matplotlib Basemap api
 https://matplotlib.org/basemap/api/basemap_api.html#mpl_toolkits.basemap.Basemap.bluemarble
+
+### Very useful links Basemap
+https://sukanyanath.wordpress.com/2017/09/30/plot-data-on-a-map-using-basemap-in-python/
+https://werthmuller.org/blog/2014/basemap/
+https://github.com/8sukanya8/BernMapPlotData
