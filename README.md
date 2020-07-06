@@ -10,6 +10,8 @@
 -Radius
 
 -Jahr (advanced)
+## Tkinter Docs
+https://tkdocs.com/tutorial/
 
 ## Links
 https://www.swisstopo.admin.ch/en/maps-data-online/calculation-services/navref.html
