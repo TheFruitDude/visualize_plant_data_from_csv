@@ -1,0 +1,433 @@
+Taxon ID,Gruppe,Trivialname,Taxon,Gemeinde(n),Kanton(e) ,Fundort,Höhe,Koordx,Koordy,Radius,Räumliche Zusammenfassung,Anzahl,n Nachweise ,Jahr,Monat,Tag,Fortpflanzungsnachweis,Herkunft,Beobachter/Sammler,ID Beobachtung,Rote Liste,Priorität CH,UZL,WZL,Massnahmebedarf,Monitoring-Bedarf,NHV,SMARAGD,infoflora: Kantonaler Schutzstatus,infoflora: Rote Liste regional,Habitat,Substrat,swisslichens: Ecotyp,Ordnung,Familie,swissfungi: funktionelle Gruppe,Indigenat CH,Standortfremd,Einführung
+infoflora:32100,Gefässpflanzen,Schweizer Mannsschild,Androsace helvetica (L.) All.,Alpnach,OW,Pilatus: Oberhaupt,,2660469,1200552,6191,A,,,1880,6,3,,© Naturmuseum Luzern,Müller Edm.,4216491,LC,K,,,,,451.1/2,,Vollständig geschützt,LC,,,,,Primulaceae,,INN,,
+infoflora:32100,Gefässpflanzen,Schweizer Mannsschild,Androsace helvetica (L.) All.,Alpnach,OW,Pilatus: Am W. Fuss vom Esel,2030,2662000,1203360,250,A,,,1928,6,12,,© Naturmuseum Luzern,Wallimann Hans,3909421,LC,K,,,,,451.1/2,,Vollständig geschützt,LC,,,,,Primulaceae,,INN,,
+infoflora:32100,Gefässpflanzen,Schweizer Mannsschild,Androsace helvetica (L.) All.,Alpnach,OW,Pilatus: Esel NW,2115,2660469,1200552,6191,A,,,1946,7,,,© Naturmuseum Luzern,Aregger Josef,4216476,LC,K,,,,,451.1/2,,Vollständig geschützt,LC,,,,,Primulaceae,,INN,,
+infoflora:32100,Gefässpflanzen,Schweizer Mannsschild,Androsace helvetica (L.) All.,Hergiswil (NW),NW,,1216-2125,2661000,1203000,1000,A,,,1951,3,,,© Info Flora (Erste Kartiertung der Flora der Schweiz),Wallimann Hans,3805783,LC,K,,,,,451.1/2,,,LC,,,,,Primulaceae,,INN,,
+infoflora:32100,Gefässpflanzen,Schweizer Mannsschild,Androsace helvetica (L.) All.,Hergiswil (NW),NW,Pilatus: zw. Chriesiloch und Klimsenhorn NW,1800,2663616,1203541,4316,A,,,1952,7,24,,© Naturmuseum Luzern,Aregger Josef,4216473,LC,K,,,,,451.1/2,,,LC,,,,,Primulaceae,,INN,,
+infoflora:32100,Gefässpflanzen,Schweizer Mannsschild,Androsace helvetica (L.) All.,Alpnach,OW,Fuss des Tomlishorn,2080,2661181,1202840,8,A,,,2012,6,24,,"© Info Flora, Michael Jutzi",Jutzi Michael,3427288,LC,K,,,,,451.1/2,,Vollständig geschützt,LC,,,,,Primulaceae,,INN,,
+infoflora:32100,Gefässpflanzen,Schweizer Mannsschild,Androsace helvetica (L.) All.,Alpnach,OW,"Pilatus, Tomlishorn",1997-2008,2660824,1202844,7,A,,,2015,6,28,,"© Info Flora, Philippe Juillerat",Juillerat Philippe,4739844,LC,K,,,,,451.1/2,,Vollständig geschützt,LC,,,,,Primulaceae,,INN,,
+infoflora:32100,Gefässpflanzen,Schweizer Mannsschild,Androsace helvetica (L.) All.,Alpnach,OW,"Drei Standorte in unmittelbarer Nähe, verschieden gross",2061-2096,2661179,1202858,10,A,,,2016,6,25,,"© Info Flora, Rosmarie Knuchel",Knuchel Rosmarie,5329506,LC,K,,,,,451.1/2,,Vollständig geschützt,LC,,,,,Primulaceae,,INN,,
+infoflora:32100,Gefässpflanzen,Schweizer Mannsschild,Androsace helvetica (L.) All.,Hergiswil (NW),NW,,2029-2061,2661284,1202901,11,A,,,2018,11,12,,"© Info Flora, Elsbeth Honegger",Honegger Elsbeth,7459653,LC,K,,,,,451.1/2,,,LC,,,,,Primulaceae,,INN,,
+infoflora:136900,Gefässpflanzen,Stein-Nelke,Dianthus sylvestris Wulfen,Alpnach,OW,Pilatus: Tomlisalp (Tumli),1469-2124,2660675,1202182,750,A,,,1857,8,5,,© Naturmuseum Luzern,Käppeli,5703376,LC,K,L,,,,,,Vollständig geschützt,LC,,,,,Caryophyllaceae,,INN,,
+infoflora:136900,Gefässpflanzen,Stein-Nelke,Dianthus sylvestris Wulfen,Alpnach,OW,Pilatus,508-2125,2662195,1203450,2800,A,,,1857,7,,,© Naturmuseum Luzern,Steiger J.,5703372,LC,K,L,,,,,,Vollständig geschützt,LC,,,,,Caryophyllaceae,,INN,,
+infoflora:136900,Gefässpflanzen,Stein-Nelke,Dianthus sylvestris Wulfen,Alpnach,OW,Am Pilatus: Im Aufstiege vom Mondmilchloch aufs Widderfeld,639-2125,2659424,1202029,2800,A,,,1862,,,,© Naturmuseum Luzern,Steiger J.,5703722,LC,K,L,,,,,,Vollständig geschützt,LC,,,,,Caryophyllaceae,,INN,,
+infoflora:136900,Gefässpflanzen,Stein-Nelke,Dianthus sylvestris Wulfen,Alpnach,OW,Pilatus: Tomlishorn,1378-2125,2661076,1202853,700,A,,,1866,,,,© Naturmuseum Luzern,Schobinger Laurenz,5703895,LC,K,L,,,,,,Vollständig geschützt,LC,,,,,Caryophyllaceae,,INN,,
+infoflora:136900,Gefässpflanzen,Stein-Nelke,Dianthus sylvestris Wulfen,Hergiswil (NW),NW,"Pilatus, allg.",2110,2662000,1203000,3000,A,,,1890,7,10,,© Naturmuseum Solothurn,Baumann Eugen,3981306,LC,K,L,,,,,,Vollständig geschützt,LC,,,,,Caryophyllaceae,,INN,,
+infoflora:136900,Gefässpflanzen,Stein-Nelke,Dianthus sylvestris Wulfen,Alpnach,OW,Pilatus: Chretzenalpflüe,1750,2662220,1202170,500,A,,,1936,8,5,,© Naturmuseum Luzern,Wallimann Hans,3914433,LC,K,L,,,,,,Vollständig geschützt,LC,,,,,Caryophyllaceae,,INN,,
+infoflora:136900,Gefässpflanzen,Stein-Nelke,Dianthus sylvestris Wulfen,Alpnach,OW,"Pilatus: An der Widderfeldflue, zwischen Tomli und Birchboden",1660,2660420,1202000,500,A,,,1939,7,21,,© Naturmuseum Luzern,Wallimann Hans,3914436,LC,K,L,,,,,,Vollständig geschützt,LC,,,,,Caryophyllaceae,,INN,,
+infoflora:136900,Gefässpflanzen,Stein-Nelke,Dianthus sylvestris Wulfen,Alpnach,OW,"Pilatus, Holzwangflue",1712-1738,2660979,1202307,7,A,,,2015,6,28,,"© Info Flora, Philippe Juillerat",Juillerat Philippe,4739715,LC,K,L,,,,,,Vollständig geschützt,LC,,,,,Caryophyllaceae,,INN,,
+infoflora:141000,Gefässpflanzen,Graues Felsenblümchen,Draba incana L.,Alpnach,OW,Am Pilatus nahe dem Mondmilchloch,1543-1922,2659459,1202042,200,A,,,1870,,,,"© Info Flora, Christophe Bornand",?,3419219,CR,1,,,2,2,,,,CR,,,,,Brassicaceae,,INN,,
+infoflora:141000,Gefässpflanzen,Graues Felsenblümchen,Draba incana L.,Alpnach,OW,,2034,2662039,1203457,7,A,1–10 / 1 plante avec 3 inflorescences,,2010,7,31,,"© Info Flora, Christophe Bornand","Bornand Christophe, Huck Corinne",1886936,CR,1,,,2,2,,,,CR,,,,,Brassicaceae,,INN,,
+infoflora:141000,Gefässpflanzen,Graues Felsenblümchen,Draba incana L.,Alpnach,OW,"Oberhaupt, am Wegrand",2100,2661963,1203485,6,A,1–10 / 2 Ex.,,2012,6,24,,"© Info Flora, Michael Jutzi",Jutzi Michael,3427239,CR,1,,,2,2,,,,CR,,,,,Brassicaceae,,INN,,
+infoflora:290650,Gefässpflanzen,Alpen-Mohn,Papaver alpinum aggr.,Hergiswil (NW),NW,"Pilatus, Mitte, Esel, Station Pilatus Kulm",2100,2662500,1203500,707,A,,,1882,8,13,,© Naturmuseum Solothurn,Favre Edmond,3981873,NT,K,,,,,,,,NT,,,,,Papaveraceae,,INN,,
+infoflora:290650,Gefässpflanzen,Alpen-Mohn,Papaver alpinum aggr.,Hergiswil (NW),NW,"Pilatus, Mitte, Esel, Station Pilatus Kulm",2100,2662500,1203500,707,A,,,1889,7,7,,© Naturmuseum Solothurn,Zschokke Achilles,3981874,NT,K,,,,,,,,NT,,,,,Papaveraceae,,INN,,
+infoflora:290650,Gefässpflanzen,Alpen-Mohn,Papaver alpinum aggr.,Hergiswil (NW),NW,"Pilatus, allg.",2110,2662000,1203000,3000,A,,,1924,,,,© Naturmuseum Solothurn,Greppin L.,3997346,NT,K,,,,,,,,NT,,,,,Papaveraceae,,INN,,
+infoflora:290650,Gefässpflanzen,Alpen-Mohn,Papaver alpinum aggr.,Alpnach,OW,,1606-2125,2661500,1202500,707,A,,,1946,,,,© Info Flora (Erste Kartiertung der Flora der Schweiz),Wallimann Hans,3814440,NT,K,,,,,,,,NT,,,,,Papaveraceae,,INN,,
+infoflora:290650,Gefässpflanzen,Alpen-Mohn,Papaver alpinum aggr.,Hergiswil (NW),NW,,1366-2106,2662500,1203500,707,A,,,1946,,,,© Info Flora (Erste Kartiertung der Flora der Schweiz),Wallimann Hans,3814441,NT,K,,,,,,,,NT,,,,,Papaveraceae,,INN,,
+infoflora:291900,Gefässpflanzen,Sendtners Alpen-Mohn,Papaver sendtneri Hayek,Alpnach,OW,Pilatus: unter d. Ringfluh,,2660469,1200552,6191,A,,,1831,,,,© Naturmuseum Luzern,Krauer Johann-Georg,4227881,NT,3,,,0,0,451.1/2,,Vollständig geschützt,NT,,,,,Papaveraceae,,IEP,,
+infoflora:291900,Gefässpflanzen,Sendtners Alpen-Mohn,Papaver sendtneri Hayek,Alpnach,OW,Pilatus: Esel- u. Ringfluh,,2660469,1200552,6191,A,,,1834,6,16,,© Naturmuseum Luzern,Krauer Johann-Georg,4227874,NT,3,,,0,0,451.1/2,,Vollständig geschützt,NT,,,,,Papaveraceae,,IEP,,
+infoflora:291900,Gefässpflanzen,Sendtners Alpen-Mohn,Papaver sendtneri Hayek,Alpnach,OW,Pilatus: Eselsfluh u. Ringfluh,,2660469,1200552,6191,A,,,1834,6,16,,© Naturmuseum Luzern,Krauer Johann-Georg,4227882,NT,3,,,0,0,451.1/2,,Vollständig geschützt,NT,,,,,Papaveraceae,,IEP,,
+infoflora:291900,Gefässpflanzen,Sendtners Alpen-Mohn,Papaver sendtneri Hayek,Alpnach,OW,Pilatus: südl. Fuss des Tomlishorns,,2660469,1200552,6191,A,,,1852,,,,© Naturmuseum Luzern,Schürmann,4227879,NT,3,,,0,0,451.1/2,,Vollständig geschützt,NT,,,,,Papaveraceae,,IEP,,
+infoflora:291900,Gefässpflanzen,Sendtners Alpen-Mohn,Papaver sendtneri Hayek,Alpnach,OW,Pilatus: Ringfluh,,2660469,1200552,6191,A,,,1858,7,,,© Naturmuseum Luzern,Steiger J.,4227878,NT,3,,,0,0,451.1/2,,Vollständig geschützt,NT,,,,,Papaveraceae,,IEP,,
+infoflora:291900,Gefässpflanzen,Sendtners Alpen-Mohn,Papaver sendtneri Hayek,Alpnach,OW,Pilatus: Eselfluh,,2660469,1200552,6191,A,,,1859,6,30,,© Naturmuseum Luzern,Schürmann,4227876,NT,3,,,0,0,451.1/2,,Vollständig geschützt,NT,,,,,Papaveraceae,,IEP,,
+infoflora:291900,Gefässpflanzen,Sendtners Alpen-Mohn,Papaver sendtneri Hayek,Alpnach,OW,Pilatus: Ringfluh,,2660469,1200552,6191,A,,,1862,,,,© Naturmuseum Luzern,Steiger J.,4227880,NT,3,,,0,0,451.1/2,,Vollständig geschützt,NT,,,,,Papaveraceae,,IEP,,
+infoflora:291900,Gefässpflanzen,Sendtners Alpen-Mohn,Papaver sendtneri Hayek,Alpnach,OW,Pilatus: Von Ringfluh am Fusse des Esels,,2660469,1200552,6191,A,,,1862,,,,© Naturmuseum Luzern,Steiger J.,4227877,NT,3,,,0,0,451.1/2,,Vollständig geschützt,NT,,,,,Papaveraceae,,IEP,,
+infoflora:291900,Gefässpflanzen,Sendtners Alpen-Mohn,Papaver sendtneri Hayek,Alpnach,OW,Pilatus: Ringfluh,,2660469,1200552,6191,A,,,1878,,,,© Naturmuseum Luzern,Schürmann,4227859,NT,3,,,0,0,451.1/2,,Vollständig geschützt,NT,,,,,Papaveraceae,,IEP,,
+infoflora:291900,Gefässpflanzen,Sendtners Alpen-Mohn,Papaver sendtneri Hayek,Alpnach,OW,Pilatus: Ringfluh,,2660469,1200552,6191,A,,,1881,,,,© Naturmuseum Luzern,Schürmann,4227860,NT,3,,,0,0,451.1/2,,Vollständig geschützt,NT,,,,,Papaveraceae,,IEP,,
+infoflora:291900,Gefässpflanzen,Sendtners Alpen-Mohn,Papaver sendtneri Hayek,Alpnach,OW,Pilatus: Ringfluh,,2660469,1200552,6191,A,,,1883,,,,© Naturmuseum Luzern,Schürmann,4227864,NT,3,,,0,0,451.1/2,,Vollständig geschützt,NT,,,,,Papaveraceae,,IEP,,
+infoflora:291900,Gefässpflanzen,Sendtners Alpen-Mohn,Papaver sendtneri Hayek,Alpnach,OW,Pilatus: Aufstieg vom Hotel Bellevue gegen den Esel,,2660469,1200552,6191,A,,,1883,8,15,,© Naturmuseum Luzern,Schürmann,4227863,NT,3,,,0,0,451.1/2,,Vollständig geschützt,NT,,,,,Papaveraceae,,IEP,,
+infoflora:291900,Gefässpflanzen,Sendtners Alpen-Mohn,Papaver sendtneri Hayek,Alpnach,OW,Pilatus: Ringfluh,,2660469,1200552,6191,A,,,1883,8,15,,© Naturmuseum Luzern,Schürmann,4227861,NT,3,,,0,0,451.1/2,,Vollständig geschützt,NT,,,,,Papaveraceae,,IEP,,
+infoflora:291900,Gefässpflanzen,Sendtners Alpen-Mohn,Papaver sendtneri Hayek,Alpnach,OW,Pilatus: Aufstieg vom Hotel Bellevue gegen den Esel,,2660469,1200552,6191,A,,,1883,8,15,,© Naturmuseum Luzern,Schürmann,4227862,NT,3,,,0,0,451.1/2,,Vollständig geschützt,NT,,,,,Papaveraceae,,IEP,,
+infoflora:291900,Gefässpflanzen,Sendtners Alpen-Mohn,Papaver sendtneri Hayek,Alpnach,OW,Pilatus: Am Aufstieg v. Hotel Bellevue auf den Esel,,2660469,1200552,6191,A,,,1884,,,,© Naturmuseum Luzern,Schürmann,4227865,NT,3,,,0,0,451.1/2,,Vollständig geschützt,NT,,,,,Papaveraceae,,IEP,,
+infoflora:291900,Gefässpflanzen,Sendtners Alpen-Mohn,Papaver sendtneri Hayek,Alpnach,OW,Pilatus: Esel,,2660469,1200552,6191,A,,,1885,8,,,© Naturmuseum Luzern,Müller Edm.,4227868,NT,3,,,0,0,451.1/2,,Vollständig geschützt,NT,,,,,Papaveraceae,,IEP,,
+infoflora:291900,Gefässpflanzen,Sendtners Alpen-Mohn,Papaver sendtneri Hayek,Alpnach,OW,Pilatus: Ringfluh,,2660469,1200552,6191,A,,,1885,7,26,,© Naturmuseum Luzern,Schürmann,4227866,NT,3,,,0,0,451.1/2,,Vollständig geschützt,NT,,,,,Papaveraceae,,IEP,,
+infoflora:291900,Gefässpflanzen,Sendtners Alpen-Mohn,Papaver sendtneri Hayek,Alpnach,OW,Pilatus: Am Aufstieg v. Hotel Bellevue auf den Esel,,2660469,1200552,6191,A,,,1885,7,26,,© Naturmuseum Luzern,Schürmann,4227867,NT,3,,,0,0,451.1/2,,Vollständig geschützt,NT,,,,,Papaveraceae,,IEP,,
+infoflora:291900,Gefässpflanzen,Sendtners Alpen-Mohn,Papaver sendtneri Hayek,Alpnach,OW,Pilatus: an der Eselflue,,2660469,1200552,6191,A,,,1886,,,,© Naturmuseum Luzern,Suppiger Jakob,4227875,NT,3,,,0,0,451.1/2,,Vollständig geschützt,NT,,,,,Papaveraceae,,IEP,,
+infoflora:291900,Gefässpflanzen,Sendtners Alpen-Mohn,Papaver sendtneri Hayek,Hergiswil (NW),NW,"Esel: Am Pilatus, nach Krauer an der Etzel-[Esel] u,.Ringflue",1360-2106,2662199,1203454,700,A,,,1886,,,,© Naturmuseum Luzern,?,5707236,NT,3,,,0,0,451.1/2,,,NT,,,,,Papaveraceae,,IEP,,
+infoflora:291900,Gefässpflanzen,Sendtners Alpen-Mohn,Papaver sendtneri Hayek,Alpnach,OW,Pilatus: Esel und Ringfluh,,2660469,1200552,6191,A,,,1892,,,,© Naturmuseum Luzern,Kaufmann H. J.,4227869,NT,3,,,0,0,451.1/2,,Vollständig geschützt,NT,,,,,Papaveraceae,,IEP,,
+infoflora:291900,Gefässpflanzen,Sendtners Alpen-Mohn,Papaver sendtneri Hayek,Alpnach,OW,"Pilatus: Esel, Ringfluh",,2660469,1200552,6191,A,,,1892,,,,© Naturmuseum Luzern,Kaufmann H. J.,4227872,NT,3,,,0,0,451.1/2,,Vollständig geschützt,NT,,,,,Papaveraceae,,IEP,,
+infoflora:291900,Gefässpflanzen,Sendtners Alpen-Mohn,Papaver sendtneri Hayek,Alpnach,OW,Pilatus: Von der Ringfluhriese,,2660469,1200552,6191,A,,,1895,8,10,,© Naturmuseum Luzern,Schürmann,4227873,NT,3,,,0,0,451.1/2,,Vollständig geschützt,NT,,,,,Papaveraceae,,IEP,,
+infoflora:291900,Gefässpflanzen,Sendtners Alpen-Mohn,Papaver sendtneri Hayek,Alpnach,OW,Pilatus: Zw. Hotel Bellevue u. Esel,,2660469,1200552,6191,A,,,1895,8,10,,© Naturmuseum Luzern,Schürmann,4227871,NT,3,,,0,0,451.1/2,,Vollständig geschützt,NT,,,,,Papaveraceae,,IEP,,
+infoflora:291900,Gefässpflanzen,Sendtners Alpen-Mohn,Papaver sendtneri Hayek,Alpnach,OW,Pilatus: Unter Eselfluh,,2660469,1200552,6191,A,,,1900,,,,© Naturmuseum Luzern,?,4227870,NT,3,,,0,0,451.1/2,,Vollständig geschützt,NT,,,,,Papaveraceae,,IEP,,
+infoflora:291900,Gefässpflanzen,Sendtners Alpen-Mohn,Papaver sendtneri Hayek,Alpnach,OW,"Pilatus, S, Ringfluh",1700,2660500,1202500,707,A,,,1908,6,28,,© Naturmuseum Solothurn,Binz August,3959482,NT,3,,,0,0,451.1/2,,Vollständig geschützt,NT,,,,,Papaveraceae,,IEP,,
+infoflora:291900,Gefässpflanzen,Sendtners Alpen-Mohn,Papaver sendtneri Hayek,Alpnach,OW,Pilatus: Zwischen Chilchsteine und Kulm,1860-2100,2662040,1203280,500,A,,,1923,7,20,,© Naturmuseum Luzern,Wallimann Hans,3921717,NT,3,,,0,0,451.1/2,,Vollständig geschützt,NT,,,,,Papaveraceae,,IEP,,
+infoflora:291900,Gefässpflanzen,Sendtners Alpen-Mohn,Papaver sendtneri Hayek,Alpnach,OW,"Pilatus: Oberhaupt, im Ca-Schutt",,2660469,1200552,6191,A,,,1941,7,18,,© Naturmuseum Luzern,Aregger Josef,4227577,NT,3,,,0,0,451.1/2,,Vollständig geschützt,NT,,,,,Papaveraceae,,IEP,,
+infoflora:291900,Gefässpflanzen,Sendtners Alpen-Mohn,Papaver sendtneri Hayek,Alpnach,OW,Pilatus: unterhalb Kulm in der Geröllhalde,1950,2660469,1200552,6191,A,,,1952,8,14,,© Naturmuseum Luzern,Aregger Josef,4227579,NT,3,,,0,0,451.1/2,,Vollständig geschützt,NT,,,,,Papaveraceae,,IEP,,
+infoflora:291900,Gefässpflanzen,Sendtners Alpen-Mohn,Papaver sendtneri Hayek,Alpnach,OW,Pilatus-Kulm,2050,2662150,1203480,250,A,,,1953,7,27,,© Naturmuseum Luzern,Wallimann Hans,3921719,NT,3,,,0,0,451.1/2,,Vollständig geschützt,NT,,,,,Papaveraceae,,IEP,,
+infoflora:291900,Gefässpflanzen,Sendtners Alpen-Mohn,Papaver sendtneri Hayek,Alpnach,OW,Pilatus: Kulm S in Geröllhalde,2050,2660469,1200552,6191,A,,,1954,7,,,© Naturmuseum Luzern,Aregger Josef,4227578,NT,3,,,0,0,451.1/2,,Vollständig geschützt,NT,,,,,Papaveraceae,,IEP,,
+infoflora:291900,Gefässpflanzen,Sendtners Alpen-Mohn,Papaver sendtneri Hayek,Alpnach,OW,Pilatus: Risleten (Laubrisleten),2000,2661300,1202800,500,A,,,1958,8,27,,© Naturmuseum Luzern,Wallimann Hans,3921718,NT,3,,,0,0,451.1/2,,Vollständig geschützt,NT,,,,,Papaveraceae,,IEP,,
+infoflora:291900,Gefässpflanzen,Sendtners Alpen-Mohn,Papaver sendtneri Hayek,Alpnach,OW,Pilatus: Kulm S OW in Geröllhalde,2050,2660469,1200552,6191,A,,,1967,7,,,© Naturmuseum Luzern,Aregger Josef,4227576,NT,3,,,0,0,451.1/2,,Vollständig geschützt,NT,,,,,Papaveraceae,,IEP,,
+infoflora:291900,Gefässpflanzen,Sendtners Alpen-Mohn,Papaver sendtneri Hayek,Alpnach,OW,"Pilatus, Laub",1700,2661380,1202550,25,A,51–100 / 75,,2006,,,,"© Bildhauer-Hans-von-Matt-Stiftung, Kanton Nidwalden",Baggenstos-von Matt Margret,1843809,NT,3,,,0,0,451.1/2,,Vollständig geschützt,NT,,,,,Papaveraceae,,IEP,,
+infoflora:291900,Gefässpflanzen,Sendtners Alpen-Mohn,Papaver sendtneri Hayek,Alpnach,OW,"Pilatus, Esel, Geröll unterhalb Bergrestaurant. Felsschutt.",2030,2662040,1203433,50,A,,,2008,7,15,,"© Info Flora, Rolf Holderegger","Holderegger Rolf, Büttner Michèle",3190219,NT,3,,,0,0,451.1/2,,Vollständig geschützt,NT,,,,,Papaveraceae,,IEP,,
+infoflora:291900,Gefässpflanzen,Sendtners Alpen-Mohn,Papaver sendtneri Hayek,Alpnach,OW,,1973,2662065,1203319,7,A,1–10 / 1 touffe avec plus de 50 tiges fleuries,,2010,7,31,,"© Info Flora, Christophe Bornand","Bornand Christophe, Huck Corinne",1886939,NT,3,,,0,0,451.1/2,,Vollständig geschützt,NT,,,,,Papaveraceae,,IEP,,
+infoflora:291900,Gefässpflanzen,Sendtners Alpen-Mohn,Papaver sendtneri Hayek,Alpnach,OW,"Pilatus, oberhalb Chilchsteine. Thlaspion rotundifolii.",1875,2661787,1202942,10,A,1–10 / einige Polster,,2010,6,26,,"© Info Flora, Michael Jutzi",Jutzi Michael,1844546,NT,3,,,0,0,451.1/2,,Vollständig geschützt,NT,TypoCH 3.3.1.2 : Alpine Kalkblockflur,,,,Papaveraceae,,IEP,,
+infoflora:291900,Gefässpflanzen,Sendtners Alpen-Mohn,Papaver sendtneri Hayek,Alpnach,OW,"Pilatus, unterhalb Pilatus Kulm. Thlaspion rotundifolii.",1975,2662091,1203327,30,A,1–10 / 1 grosses Polster,,2010,6,26,,"© Info Flora, Michael Jutzi",Jutzi Michael,1844566,NT,3,,,0,0,451.1/2,,Vollständig geschützt,NT,TypoCH 3.3.1.2 : Alpine Kalkblockflur,,,,Papaveraceae,,IEP,,
+infoflora:291900,Gefässpflanzen,Sendtners Alpen-Mohn,Papaver sendtneri Hayek,Alpnach,OW,Unterhalb Station Pilatus Kulm im Schutthang,1958-1978,2662078,1203322,10,A,,,2012,7,1,,"© Info Flora, Michael Jutzi",Jutzi Michael,3427406,NT,3,,,0,0,451.1/2,,Vollständig geschützt,NT,,,,,Papaveraceae,,IEP,,
+infoflora:291900,Gefässpflanzen,Sendtners Alpen-Mohn,Papaver sendtneri Hayek,Alpnach,OW,Direkt unterhalb Station Pilatus Kulm im Schutthang. Thlaspion rotundifolii.,2010-2041,2662109,1203433,20,A,1–10 / mehrere Büschel,,2012,7,1,,"© Info Flora, Michael Jutzi",Jutzi Michael,3427408,NT,3,,,0,0,451.1/2,,Vollständig geschützt,NT,TypoCH 3.3.1.2 : Alpine Kalkblockflur,,,,Papaveraceae,,IEP,,
+infoflora:291900,Gefässpflanzen,Sendtners Alpen-Mohn,Papaver sendtneri Hayek,Alpnach,OW,"Pilatus, éboulis de l'Esel",1896-1908,2661986,1203194,7,A,,,2015,6,28,,"© Info Flora, Philippe Juillerat",Juillerat Philippe,4739811,NT,3,,,0,0,451.1/2,,Vollständig geschützt,NT,,,,,Papaveraceae,,IEP,,
+infoflora:291900,Gefässpflanzen,Sendtners Alpen-Mohn,Papaver sendtneri Hayek,Alpnach,OW,unterhalb Bahtrassee,2021,2662102,1203353,5,A,,,2015,8,31,,"© Info Flora, Adrian Möhl",Möhl Adrian,4797449,NT,3,,,0,0,451.1/2,,Vollständig geschützt,NT,,,,,Papaveraceae,,IEP,,
+infoflora:291900,Gefässpflanzen,Sendtners Alpen-Mohn,Papaver sendtneri Hayek,Alpnach,OW,,1969,2662082,1203292,10,A,,,2015,7,12,,"© Info Flora, Madeleine Dirren",Dirren Madeleine,5992150,NT,3,,,0,0,451.1/2,,Vollständig geschützt,NT,,,,,Papaveraceae,,IEP,,
+infoflora:291900,Gefässpflanzen,Sendtners Alpen-Mohn,Papaver sendtneri Hayek,Alpnach,OW,"Pilatus, éboulis de l'Esel",1896-1911,2661974,1203196,7,A,,,2015,6,28,,"© Info Flora, Philippe Juillerat",Juillerat Philippe,4739813,NT,3,,,0,0,451.1/2,,Vollständig geschützt,NT,,,,,Papaveraceae,,IEP,,
+infoflora:291900,Gefässpflanzen,Sendtners Alpen-Mohn,Papaver sendtneri Hayek,Alpnach,OW,Pilatus,1972,2662070,1203320,20,A,,,2016,7,26,,"© Info Flora, Christoph Hochstrasser",Hochstrasser Christoph,5621768,NT,3,,,0,0,451.1/2,,Vollständig geschützt,NT,,,,,Papaveraceae,,IEP,,
+infoflora:291900,Gefässpflanzen,Sendtners Alpen-Mohn,Papaver sendtneri Hayek,Alpnach,OW,,1958-1978,2662066,1203333,10,A,,,2016,7,19,,"© Info Flora, Rosmarie Knuchel",Knuchel Rosmarie,5360857,NT,3,,,0,0,451.1/2,,Vollständig geschützt,NT,,,,,Papaveraceae,,IEP,,
+infoflora:291900,Gefässpflanzen,Sendtners Alpen-Mohn,Papaver sendtneri Hayek,Alpnach,OW,,1998-2006,2662106,1203374,3,A,"11–25 (Horste, Polster, Büschel)",,2016,7,8,,"© Info Flora, Adrian Möhl",Möhl Adrian,5347065,NT,3,,,0,0,451.1/2,,Vollständig geschützt,NT,,,,,Papaveraceae,,IEP,,
+infoflora:291900,Gefässpflanzen,Sendtners Alpen-Mohn,Papaver sendtneri Hayek,Alpnach,OW,,1958,2662070,1203319,2,A,,,2016,7,30,,© Cercle Vaudois de Botanique,Bornand Christophe,5374784,NT,3,,,0,0,451.1/2,,Vollständig geschützt,NT,,,,,Papaveraceae,,IEP,,
+infoflora:296100,Gefässpflanzen,Steinschmückel,Petrocallis pyrenaica (L.) R. Br.,Hergiswil (NW),NW,Esel: Auf dem Pilatus un..... dem Esel .... entdeckt.,1360-2106,2662199,1203454,700,A,,,1822,,,,© Naturmuseum Luzern,Krauer Johann-Georg,5702316,NT,K,,,,,,,,NT,,,,,Brassicaceae,,INN,,
+infoflora:296100,Gefässpflanzen,Steinschmückel,Petrocallis pyrenaica (L.) R. Br.,Alpnach,OW,Esel,508-2125,2662199,1203454,2800,A,,,1834,6,16,,© Naturmuseum Luzern,Steiger J.,5702162,NT,K,,,,,,,Vollständig geschützt,NT,,,,,Brassicaceae,,INN,,
+infoflora:296100,Gefässpflanzen,Steinschmückel,Petrocallis pyrenaica (L.) R. Br.,Hergiswil (NW),NW,Esel: Am Pilatus zwischen Esel und Chriesiloch.,1360-2106,2662199,1203454,700,A,,,1858,7,,,© Naturmuseum Luzern,Steiger J.,5703407,NT,K,,,,,,,,NT,,,,,Brassicaceae,,INN,,
+infoflora:296100,Gefässpflanzen,Steinschmückel,Petrocallis pyrenaica (L.) R. Br.,Alpnach,OW,"Esel, Oberhaupt",508-2125,2662199,1203454,2800,A,,,1859,7,,,© Naturmuseum Luzern,Kaufmann H. J.,5703426,NT,K,,,,,,,Vollständig geschützt,NT,,,,,Brassicaceae,,INN,,
+infoflora:296100,Gefässpflanzen,Steinschmückel,Petrocallis pyrenaica (L.) R. Br.,Alpnach,OW,Oberhaupt,614-2125,2662008,1203523,2800,A,,,1876,7,21,,© Naturmuseum Luzern,Hofstetter C. E.,5705446,NT,K,,,,,,,Vollständig geschützt,NT,,,,,Brassicaceae,,INN,,
+infoflora:296100,Gefässpflanzen,Steinschmückel,Petrocallis pyrenaica (L.) R. Br.,Alpnach,OW,Tomlishorn,745-2125,2661076,1202853,2800,A,,,1881,8,4,,© Naturmuseum Luzern,Hofstetter C. E.,5707510,NT,K,,,,,,,Vollständig geschützt,NT,,,,,Brassicaceae,,INN,,
+infoflora:296100,Gefässpflanzen,Steinschmückel,Petrocallis pyrenaica (L.) R. Br.,Hergiswil (NW),NW,"Pilatus, allg.",2110,2662000,1203000,3000,A,,,1889,7,7,,© Naturmuseum Solothurn,Zschokke Achilles,3993807,NT,K,,,,,,,,NT,,,,,Brassicaceae,,INN,,
+infoflora:296100,Gefässpflanzen,Steinschmückel,Petrocallis pyrenaica (L.) R. Br.,Hergiswil (NW),NW,"Pilatus, allg.",2110,2662000,1203000,3000,A,,,1890,7,10,,© Naturmuseum Solothurn,Baumann Eugen,3993806,NT,K,,,,,,,,NT,,,,,Brassicaceae,,INN,,
+infoflora:296100,Gefässpflanzen,Steinschmückel,Petrocallis pyrenaica (L.) R. Br.,Alpnach,OW,Pilatus-Kulm: Am Weg zum Tomlishorn,2100,2661500,1203200,707,A,,,1935,6,23,,© Naturmuseum Luzern,Wallimann Hans,3921542,NT,K,,,,,,,Vollständig geschützt,NT,,,,,Brassicaceae,,INN,,
+infoflora:296100,Gefässpflanzen,Steinschmückel,Petrocallis pyrenaica (L.) R. Br.,Alpnach,OW,Pilatus: Am Fuss vom Esel,2000,2662070,1203390,500,A,,,1945,6,10,,© Naturmuseum Luzern,Wallimann Hans,3921935,NT,K,,,,,,,Vollständig geschützt,NT,,,,,Brassicaceae,,INN,,
+infoflora:296100,Gefässpflanzen,Steinschmückel,Petrocallis pyrenaica (L.) R. Br.,Alpnach,OW,Tomlishorn: Am Weg zum Tomlishorn,1378-2125,2661076,1202853,700,A,,,1949,7,11,,© Naturmuseum Luzern,Widmer Franz,5719495,NT,K,,,,,,,Vollständig geschützt,NT,,,,,Brassicaceae,,INN,,
+infoflora:296100,Gefässpflanzen,Steinschmückel,Petrocallis pyrenaica (L.) R. Br.,Alpnach,OW,Pilatus: Bei den Eselwandbaracken,1970,2662110,1203270,250,A,,,1961,6,19,,© Naturmuseum Luzern,Wallimann Hans,3921934,NT,K,,,,,,,Vollständig geschützt,NT,,,,,Brassicaceae,,INN,,
+infoflora:296100,Gefässpflanzen,Steinschmückel,Petrocallis pyrenaica (L.) R. Br.,Alpnach,OW,Pilatus: Am Hang von der Laubalp zum Oberhaupt,1940,2662020,1203270,250,A,,,1967,7,22,,© Naturmuseum Luzern,Wallimann Hans,3921936,NT,K,,,,,,,Vollständig geschützt,NT,,,,,Brassicaceae,,INN,,
+infoflora:296100,Gefässpflanzen,Steinschmückel,Petrocallis pyrenaica (L.) R. Br.,Alpnach,OW,Pilatus: südlich Hotel Kulm im Geröll,1900-2000,2661928,1203000,750,A,,,1967,7,22,,© Naturmuseum Luzern,Aregger Josef,5721458,NT,K,,,,,,,Vollständig geschützt,NT,,,,,Brassicaceae,,INN,,
+infoflora:296100,Gefässpflanzen,Steinschmückel,Petrocallis pyrenaica (L.) R. Br.,Alpnach,OW,Pilatus: südlich Hotel Kulm im Geröll,1900-2000,2661928,1203000,750,A,,,1967,7,22,,© Naturmuseum Luzern,Aregger Josef,5721459,NT,K,,,,,,,Vollständig geschützt,NT,,,,,Brassicaceae,,INN,,
+infoflora:296100,Gefässpflanzen,Steinschmückel,Petrocallis pyrenaica (L.) R. Br.,Alpnach,OW,Tomlishorn: Felsspalte auf Kalk,2100,2661076,1202853,700,A,,,1977,7,6,,© Naturmuseum Luzern,Zemp Fredi,5722229,NT,K,,,,,,,Vollständig geschützt,NT,,,,,Brassicaceae,,INN,,
+infoflora:296100,Gefässpflanzen,Steinschmückel,Petrocallis pyrenaica (L.) R. Br.,Alpnach,OW,Ruessiflue: Kalkfels,1850,2661374,1201853,700,A,,,1984,7,8,,© Naturmuseum Luzern,Zemp Fredi,5723625,NT,K,,,,,,,Vollständig geschützt,NT,,,,,Brassicaceae,,INN,,
+infoflora:296100,Gefässpflanzen,Steinschmückel,Petrocallis pyrenaica (L.) R. Br.,Indéterminé (LU),LU,Pilatus,1400-2100,2662500,1203500,2121,A,Häufig,,1993,,,,"© Info Flora, Bruno Baur",Baur Bruno,21561,NT,K,,,,,,,,NT,,,,,Brassicaceae,,INN,,
+infoflora:296100,Gefässpflanzen,Steinschmückel,Petrocallis pyrenaica (L.) R. Br.,Alpnach,OW,"Pilatus, Esel, oberhalb der Gleise der Pilatusbahn. Kalkfels.",1910,2662175,1203200,50,A,1–10 / 5,,2003,6,20,,"© Info Flora, Stefan Birrer",Birrer Stefan,1871826,NT,K,,,,,,,Vollständig geschützt,NT,"TypoCH 3 : Gletscher, Fels, Schutt und Geröll",,,,Brassicaceae,,INN,,
+infoflora:296100,Gefässpflanzen,Steinschmückel,Petrocallis pyrenaica (L.) R. Br.,Alpnach,OW,"Pilatus, Rundweg westlich Esel / Restaurant. Felsen.",1950,2661846,1203317,50,A,,,2008,7,15,,"© Info Flora, Rolf Holderegger","Holderegger Rolf, Büttner Michèle",3190221,NT,K,,,,,,,Vollständig geschützt,NT,,,,,Brassicaceae,,INN,,
+infoflora:296100,Gefässpflanzen,Steinschmückel,Petrocallis pyrenaica (L.) R. Br.,Alpnach,OW,"Pilatus, oberhalb Chilchsteine. Thlaspion rotundifolii.",1875,2661787,1202942,10,A,zahlreich,,2010,6,26,,"© Info Flora, Michael Jutzi",Jutzi Michael,1844545,NT,K,,,,,,,Vollständig geschützt,NT,TypoCH 3.3.1.2 : Alpine Kalkblockflur,,,,Brassicaceae,,INN,,
+infoflora:296100,Gefässpflanzen,Steinschmückel,Petrocallis pyrenaica (L.) R. Br.,Alpnach,OW,zwischen Tomlishorn und Pilatus,2080,2661810,1203283,6,A,,,2012,6,24,,"© Info Flora, Michael Jutzi",Jutzi Michael,3427312,NT,K,,,,,,,Vollständig geschützt,NT,,,,,Brassicaceae,,INN,,
+infoflora:296100,Gefässpflanzen,Steinschmückel,Petrocallis pyrenaica (L.) R. Br.,Alpnach,OW,zwischen Tomlishorn und Pilatus,2080,2661838,1203298,6,A,,,2012,6,24,,"© Info Flora, Michael Jutzi",Jutzi Michael,3427313,NT,K,,,,,,,Vollständig geschützt,NT,,,,,Brassicaceae,,INN,,
+infoflora:296100,Gefässpflanzen,Steinschmückel,Petrocallis pyrenaica (L.) R. Br.,Alpnach,OW,zwischen Tomlishorn und Pilatus,2080,2661939,1203421,6,A,,,2012,6,24,,"© Info Flora, Michael Jutzi",Jutzi Michael,3427314,NT,K,,,,,,,Vollständig geschützt,NT,,,,,Brassicaceae,,INN,,
+infoflora:296100,Gefässpflanzen,Steinschmückel,Petrocallis pyrenaica (L.) R. Br.,Alpnach,OW,Weg Pilatus-Tomlishorn,2080,2661837,1203311,16,A,1–10 / 1 Polster,,2012,6,24,,"© Info Flora, Michael Jutzi",Jutzi Michael,3427265,NT,K,,,,,,,Vollständig geschützt,NT,,,,,Brassicaceae,,INN,,
+infoflora:296100,Gefässpflanzen,Steinschmückel,Petrocallis pyrenaica (L.) R. Br.,Alpnach,OW,zwischen Tomlishorn und Pilatus,2080,2661688,1203169,6,A,,,2012,6,24,,"© Info Flora, Michael Jutzi",Jutzi Michael,3427311,NT,K,,,,,,,Vollständig geschützt,NT,,,,,Brassicaceae,,INN,,
+infoflora:296100,Gefässpflanzen,Steinschmückel,Petrocallis pyrenaica (L.) R. Br.,Alpnach,OW,Pilatus,2056,2661780,1203260,50,A,,,2015,6,29,,"© Info Flora, Christoph Hochstrasser",Hochstrasser Christoph,5322268,NT,K,,,,,,,Vollständig geschützt,NT,,,,,Brassicaceae,,INN,,
+infoflora:296100,Gefässpflanzen,Steinschmückel,Petrocallis pyrenaica (L.) R. Br.,Alpnach,OW,"Pilatus, Chilchsteine",1806-1807,2661598,1202765,7,A,,,2015,6,28,,"© Info Flora, Philippe Juillerat",Juillerat Philippe,4739764,NT,K,,,,,,,Vollständig geschützt,NT,,,,,Brassicaceae,,INN,,
+infoflora:296100,Gefässpflanzen,Steinschmückel,Petrocallis pyrenaica (L.) R. Br.,Alpnach,OW,"Pilatus, Chilchsteine",1845-1856,2661741,1202869,7,A,,,2015,6,28,,"© Info Flora, Philippe Juillerat",Juillerat Philippe,4739777,NT,K,,,,,,,Vollständig geschützt,NT,,,,,Brassicaceae,,INN,,
+infoflora:296100,Gefässpflanzen,Steinschmückel,Petrocallis pyrenaica (L.) R. Br.,Alpnach,OW,am Blumenweg,2076-2101,2661804,1203287,5,A,,,2015,8,31,,"© Info Flora, Adrian Möhl",Möhl Adrian,4797446,NT,K,,,,,,,Vollständig geschützt,NT,,,,,Brassicaceae,,INN,,
+infoflora:296100,Gefässpflanzen,Steinschmückel,Petrocallis pyrenaica (L.) R. Br.,Alpnach,OW,,2035-2061,2661513,1203024,2,A,,,2016,7,30,,© Cercle Vaudois de Botanique,Bornand Christophe,5374785,NT,K,,,,,,,Vollständig geschützt,NT,,,,,Brassicaceae,,INN,,
+infoflora:296100,Gefässpflanzen,Steinschmückel,Petrocallis pyrenaica (L.) R. Br.,Alpnach,OW,am Weg zwischen Tomlishorn und Pilatus mindestens 10 grössere oder kleinere Polster!,1979-2085,2661743,1203226,50,A,,,2016,6,25,,"© Info Flora, Rosmarie Knuchel",Knuchel Rosmarie,5329504,NT,K,,,,,,,Vollständig geschützt,NT,,,,,Brassicaceae,,INN,,
+infoflora:296100,Gefässpflanzen,Steinschmückel,Petrocallis pyrenaica (L.) R. Br.,Alpnach,OW,,2076,2661802,1203281,1,A,,,2016,7,30,,© Cercle Vaudois de Botanique,Bornand Christophe,5374787,NT,K,,,,,,,Vollständig geschützt,NT,,,,,Brassicaceae,,INN,,
+infoflora:296100,Gefässpflanzen,Steinschmückel,Petrocallis pyrenaica (L.) R. Br.,Alpnach,OW,,2059-2083,2661700,1203184,2,A,,,2016,7,30,,© Cercle Vaudois de Botanique,Bornand Christophe,5374786,NT,K,,,,,,,Vollständig geschützt,NT,,,,,Brassicaceae,,INN,,
+infoflora:296100,Gefässpflanzen,Steinschmückel,Petrocallis pyrenaica (L.) R. Br.,Alpnach,OW,,2005-2056,2661594,1203074,6,A,,,2018,11,12,,"© Info Flora, Elsbeth Honegger",Honegger Elsbeth,7459652,NT,K,,,,,,,Vollständig geschützt,NT,,,,,Brassicaceae,,INN,,
+infoflora:296100,Gefässpflanzen,Steinschmückel,Petrocallis pyrenaica (L.) R. Br.,Hergiswil (NW),NW,Fels am Wegrand,1987-2017,2661386,1202971,25,A,1–10 (Individuen),,2019,6,26,,"© Info Flora, Hans Althaus",Althaus Hans,8032598,NT,K,,,,,,,,NT,,,,,Brassicaceae,,INN,,
+infoflora:296100,Gefässpflanzen,Steinschmückel,Petrocallis pyrenaica (L.) R. Br.,Alpnach,OW,,2004-2102,2661960,1203423,52,A,,,2019,6,13,,"© Info Flora, Judith Reusser",Reusser Judith,7818908,NT,K,,,,,,,Vollständig geschützt,NT,,,,,Brassicaceae,,INN,,
+infoflora:296100,Gefässpflanzen,Steinschmückel,Petrocallis pyrenaica (L.) R. Br.,Alpnach,OW,,2057-2083,2661693,1203170,6,A,,,2020,6,12,,"© Info Flora, Sarah Burg",Burg Sarah,9153453,NT,K,,,,,,,Vollständig geschützt,NT,,,,,Brassicaceae,,INN,,
+infoflora:296100,Gefässpflanzen,Steinschmückel,Petrocallis pyrenaica (L.) R. Br.,Alpnach,OW,"Von der Berg-Bahnstation bis Tomlishorn sind entlang des Wanderweges sicher 9 Fundstellen, die nicht gefährdet sind.",2076-2101,2661806,1203286,7,A,"1–10 (Horste, Polster, Büschel)",,2020,6,19,,"© Info Flora, Christoph Hochstrasser",Hochstrasser Christoph,9085718,NT,K,,,,,,,Vollständig geschützt,NT,,,,,Brassicaceae,,INN,,
+infoflora:296100,Gefässpflanzen,Steinschmückel,Petrocallis pyrenaica (L.) R. Br.,Alpnach,OW,,2047-2101,2661804,1203278,4,A,1–10 (Individuen),,2020,6,12,,"© Info Flora, Sarah Burg",Burg Sarah,9153454,NT,K,,,,,,,Vollständig geschützt,NT,,,,,Brassicaceae,,INN,,
+infoflora:449700,Gefässpflanzen,Mont Cenis-Stiefmütterchen,Viola cenisia L.,Alpnach,OW,Pilatus: Auf dem Pilatus nahe beim Esel,1572-2105,2662000,1203500,500,A,,,1840,,,,© Naturmuseum Luzern,Krauer Johann-Georg,4233210,LC,4,,,0,0,,,Vollständig geschützt,LC,,,,,Violaceae,,IEP,,
+infoflora:449700,Gefässpflanzen,Mont Cenis-Stiefmütterchen,Viola cenisia L.,Alpnach,OW,Pilatus: Im Geröll zwischen Esel u. Ringfluh am Pilatus,1572-2105,2662000,1203500,500,A,,,1858,7,,,© Naturmuseum Luzern,Steiger J.,4233209,LC,4,,,0,0,,,Vollständig geschützt,LC,,,,,Violaceae,,IEP,,
+infoflora:449700,Gefässpflanzen,Mont Cenis-Stiefmütterchen,Viola cenisia L.,Alpnach,OW,Pilatus: Im Geröll zwischen Esel u. Ringfluh am Pilatus,1572-2105,2662000,1203500,500,A,,,1858,7,,,© Naturmuseum Luzern,Steiger J.,4233208,LC,4,,,0,0,,,Vollständig geschützt,LC,,,,,Violaceae,,IEP,,
+infoflora:449700,Gefässpflanzen,Mont Cenis-Stiefmütterchen,Viola cenisia L.,Alpnach,OW,Pilatus: Esel,1572-2105,2662000,1203500,500,A,,,1862,,,,© Naturmuseum Luzern,Steiger J.,4233207,LC,4,,,0,0,,,Vollständig geschützt,LC,,,,,Violaceae,,IEP,,
+infoflora:449700,Gefässpflanzen,Mont Cenis-Stiefmütterchen,Viola cenisia L.,Alpnach,OW,Pilatus: Eselsfuss,1626-2105,2662000,1203000,500,A,,,1876,7,16,,© Naturmuseum Luzern,Hofstetter C. E.,4233206,LC,4,,,0,0,,,Vollständig geschützt,LC,,,,,Violaceae,,IEP,,
+infoflora:449700,Gefässpflanzen,Mont Cenis-Stiefmütterchen,Viola cenisia L.,Alpnach,OW,Pilatus: Im Geröll am Fusse der Ringfluh [bei Esel],1572-2105,2662000,1203500,500,A,,,1880,,,,© Naturmuseum Luzern,Schürmann,4233204,LC,4,,,0,0,,,Vollständig geschützt,LC,,,,,Violaceae,,IEP,,
+infoflora:449700,Gefässpflanzen,Mont Cenis-Stiefmütterchen,Viola cenisia L.,Alpnach,OW,Pilatus: unter der Eselfluh im Geschiebe,1626-2105,2662000,1203000,500,A,,,1900,,,,© Naturmuseum Luzern,Schürmann,4233205,LC,4,,,0,0,,,Vollständig geschützt,LC,,,,,Violaceae,,IEP,,
+infoflora:449700,Gefässpflanzen,Mont Cenis-Stiefmütterchen,Viola cenisia L.,Alpnach,OW,"Im Feinschutt und Geröll, am Pilatusweg zwischen Pilatusweg und Kalkmagazin, unterhalb Pilatus-Kulm.",1900,2662080,1203220,75,A,Auf ca 4 Meter langen und 1 Meter breiten Fläche 100 Blüten.,,1929,7,3,,© Info Flora (Erste Kartiertung der Flora der Schweiz),Wallimann Hans,3817975,LC,4,,,0,0,,,Vollständig geschützt,LC,,,,,Violaceae,,IEP,,
+infoflora:449700,Gefässpflanzen,Mont Cenis-Stiefmütterchen,Viola cenisia L.,Alpnach,OW,"Im Feinschutt und Geröll, am Pilatusweg zwischen Kilchsteine und Pilatus-Kulm.",1920,2662000,1203220,75,A,56 Blühen Ziemlich nah beimeinander.,,1929,7,3,,© Info Flora (Erste Kartiertung der Flora der Schweiz),Wallimann Hans,3817974,LC,4,,,0,0,,,Vollständig geschützt,LC,,,,,Violaceae,,IEP,,
+infoflora:449700,Gefässpflanzen,Mont Cenis-Stiefmütterchen,Viola cenisia L.,Alpnach,OW,"Pilatus: In der Risleten, gegen die Chilchsteine",1880-2000,2662000,1203000,500,A,,,1969,7,12,,© Naturmuseum Luzern,Wallimann Hans,3926736,LC,4,,,0,0,,,Vollständig geschützt,LC,,,,,Violaceae,,IEP,,
+infoflora:449700,Gefässpflanzen,Mont Cenis-Stiefmütterchen,Viola cenisia L.,Alpnach,OW,Pilatus: Hotel Kulm S im Kalkgeröll,1920,2662000,1203250,200,A,,,1972,7,,,© Naturmuseum Luzern,Aregger Josef,4233196,LC,4,,,0,0,,,Vollständig geschützt,LC,,,,,Violaceae,,IEP,,
+infoflora:449700,Gefässpflanzen,Mont Cenis-Stiefmütterchen,Viola cenisia L.,Alpnach,OW,"Pilatus, unterhalb Pilatus Kulm. Thlaspion rotundifolii.",1877,2661928,1203095,9,A,1–10 / einige Ex.,,2010,6,26,,"© Info Flora, Michael Jutzi",Jutzi Michael,1844562,LC,4,,,0,0,,,Vollständig geschützt,LC,TypoCH 3.3.1.2 : Alpine Kalkblockflur,,,,Violaceae,,IEP,,
+infoflora:422400,Gefässpflanzen,Alpenrachen,Tozzia alpina L.,Hergiswil (NW),NW,"Pilatus, allg.",2110,2662000,1203000,3000,A,,,1853,,,,© Naturmuseum Solothurn,Lüscher-Steinegger Joh.,3996259,LC,K,,,,,,,,LC,,,,,Orobanchaceae,,INN,,
+infoflora:422400,Gefässpflanzen,Alpenrachen,Tozzia alpina L.,Hergiswil (NW),NW,Pilatus: Vom Tellenfad,426-2124,2663616,1203541,4316,A,,,1861,6,20,,© Naturmuseum Luzern,Steiger J.,4231245,LC,K,,,,,,,,LC,,,,,Orobanchaceae,,INN,,
+infoflora:422400,Gefässpflanzen,Alpenrachen,Tozzia alpina L.,Hergiswil (NW),NW,Pilatus: Nauen,426-2125,2663616,1203541,4316,A,,,1876,7,16,,© Naturmuseum Luzern,Hofstetter C. E.,5701365,LC,K,,,,,,,,LC,,,,,Orobanchaceae,,INN,,
+infoflora:422400,Gefässpflanzen,Alpenrachen,Tozzia alpina L.,Hergiswil (NW),NW,Hergiswil: Tellenfad,426-2124,2663616,1203541,4316,A,,,1880,6,12,,© Naturmuseum Luzern,Hofstetter C. E.,4231243,LC,K,,,,,,,,LC,,,,,Orobanchaceae,,INN,,
+infoflora:422400,Gefässpflanzen,Alpenrachen,Tozzia alpina L.,Hergiswil (NW),NW,"Fundort teilweise unverständlich, unleserlich: Pilatus",1890,2662195,1203450,700,A,,,1892,,,,© Naturmuseum Luzern,Kaufmann H. J.,5708737,LC,K,,,,,,,,LC,,,,,Orobanchaceae,,INN,,
+infoflora:422400,Gefässpflanzen,Alpenrachen,Tozzia alpina L.,Alpnach,OW,"Alpnach: Chli Schlierental, zwischen Längenfeldmoos- und Längenschwandalp",1350,2657390,1200060,500,A,,,1931,6,22,,© Naturmuseum Luzern,Wallimann Hans,3926000,LC,K,,,,,,,,LC,,,,,Orobanchaceae,,INN,,
+infoflora:422400,Gefässpflanzen,Alpenrachen,Tozzia alpina L.,Hergiswil (NW),NW,,970-1716,2663500,1203500,707,A,,,1951,,,,© Info Flora (Erste Kartiertung der Flora der Schweiz),Wallimann Hans,3816977,LC,K,,,,,,,,LC,,,,,Orobanchaceae,,INN,,
+infoflora:422400,Gefässpflanzen,Alpenrachen,Tozzia alpina L.,Alpnach,OW,,1338-1584,2656500,1200500,707,A,,,1951,,,,© Info Flora (Erste Kartiertung der Flora der Schweiz),Wallimann Hans,3816956,LC,K,,,,,,,,LC,,,,,Orobanchaceae,,INN,,
+infoflora:422400,Gefässpflanzen,Alpenrachen,Tozzia alpina L.,Hergiswil (NW),NW,,1318-2104,2661500,1203500,707,A,,,1951,,,,© Info Flora (Erste Kartiertung der Flora der Schweiz),Wallimann Hans,3816975,LC,K,,,,,,,,LC,,,,,Orobanchaceae,,INN,,
+infoflora:422400,Gefässpflanzen,Alpenrachen,Tozzia alpina L.,Schwarzenberg,LU,,1274-1580,2657500,1203500,707,A,,,1951,,,,© Info Flora (Erste Kartiertung der Flora der Schweiz),Wallimann Hans,3816971,LC,K,,,,,,,,LC,,,,,Orobanchaceae,,INN,,
+infoflora:422400,Gefässpflanzen,Alpenrachen,Tozzia alpina L.,Schwarzenberg,LU,,1117-1460,2658500,1203500,707,A,,,1951,,,,© Info Flora (Erste Kartiertung der Flora der Schweiz),Wallimann Hans,3816972,LC,K,,,,,,,,LC,,,,,Orobanchaceae,,INN,,
+infoflora:422400,Gefässpflanzen,Alpenrachen,Tozzia alpina L.,Alpnach,OW,,1235-1444,2657500,1200500,707,A,,,1951,,,,© Info Flora (Erste Kartiertung der Flora der Schweiz),Wallimann Hans,3816957,LC,K,,,,,,,,LC,,,,,Orobanchaceae,,INN,,
+infoflora:422400,Gefässpflanzen,Alpenrachen,Tozzia alpina L.,Alpnach,OW,,1276-1736,2657500,1201500,707,A,,,1951,,,,© Info Flora (Erste Kartiertung der Flora der Schweiz),Wallimann Hans,3816961,LC,K,,,,,,,,LC,,,,,Orobanchaceae,,INN,,
+infoflora:422400,Gefässpflanzen,Alpenrachen,Tozzia alpina L.,Alpnach,OW,,1340-1760,2656500,1201500,707,A,,,1951,,,,© Info Flora (Erste Kartiertung der Flora der Schweiz),Wallimann Hans,3816960,LC,K,,,,,,,,LC,,,,,Orobanchaceae,,INN,,
+infoflora:422400,Gefässpflanzen,Alpenrachen,Tozzia alpina L.,Schwarzenberg,LU,,1309-1904,2656500,1202500,707,A,,,1951,,,,© Info Flora (Erste Kartiertung der Flora der Schweiz),Wallimann Hans,3816965,LC,K,,,,,,,,LC,,,,,Orobanchaceae,,INN,,
+infoflora:422400,Gefässpflanzen,Alpenrachen,Tozzia alpina L.,Alpnach,OW,,1114-1366,2658500,1200500,707,A,,,1951,,,,© Info Flora (Erste Kartiertung der Flora der Schweiz),Wallimann Hans,3816958,LC,K,,,,,,,,LC,,,,,Orobanchaceae,,INN,,
+infoflora:422400,Gefässpflanzen,Alpenrachen,Tozzia alpina L.,Schwarzenberg,LU,,1226-1572,2656500,1203500,707,A,,,1951,,,,© Info Flora (Erste Kartiertung der Flora der Schweiz),Wallimann Hans,3816970,LC,K,,,,,,,,LC,,,,,Orobanchaceae,,INN,,
+infoflora:422400,Gefässpflanzen,Alpenrachen,Tozzia alpina L.,Hergiswil (NW),NW,,1017-1384,2660500,1204500,707,A,,,1951,,,,© Info Flora (Erste Kartiertung der Flora der Schweiz),Wallimann Hans,3816978,LC,K,,,,,,,,LC,,,,,Orobanchaceae,,INN,,
+infoflora:422400,Gefässpflanzen,Alpenrachen,Tozzia alpina L.,Alpnach,OW,,853-1582,2663500,1202500,707,A,,,1951,,,,© Info Flora (Erste Kartiertung der Flora der Schweiz),Wallimann Hans,3816969,LC,K,,,,,,,,LC,,,,,Orobanchaceae,,INN,,
+infoflora:422400,Gefässpflanzen,Alpenrachen,Tozzia alpina L.,Alpnach,OW,,1397-2024,2662500,1202500,707,A,,,1951,,,,© Info Flora (Erste Kartiertung der Flora der Schweiz),Wallimann Hans,3816968,LC,K,,,,,,,,LC,,,,,Orobanchaceae,,INN,,
+infoflora:422400,Gefässpflanzen,Alpenrachen,Tozzia alpina L.,Schwarzenberg,LU,,1220-1766,2658500,1202500,707,A,,,1951,,,,© Info Flora (Erste Kartiertung der Flora der Schweiz),Wallimann Hans,3816967,LC,K,,,,,,,,LC,,,,,Orobanchaceae,,INN,,
+infoflora:422400,Gefässpflanzen,Alpenrachen,Tozzia alpina L.,Hergiswil (NW),NW,,1366-2106,2662500,1203500,707,A,,,1951,,,,© Info Flora (Erste Kartiertung der Flora der Schweiz),Wallimann Hans,3816976,LC,K,,,,,,,,LC,,,,,Orobanchaceae,,INN,,
+infoflora:422400,Gefässpflanzen,Alpenrachen,Tozzia alpina L.,Schwarzenberg,LU,,1384-1904,2657500,1202500,707,A,,,1951,,,,© Info Flora (Erste Kartiertung der Flora der Schweiz),Wallimann Hans,3816966,LC,K,,,,,,,,LC,,,,,Orobanchaceae,,INN,,
+infoflora:422400,Gefässpflanzen,Alpenrachen,Tozzia alpina L.,Hergiswil (NW),NW,,1059-1682,2659500,1203500,707,A,,,1951,,,,© Info Flora (Erste Kartiertung der Flora der Schweiz),Wallimann Hans,3816973,LC,K,,,,,,,,LC,,,,,Orobanchaceae,,INN,,
+infoflora:422400,Gefässpflanzen,Alpenrachen,Tozzia alpina L.,Alpnach,OW,,1280-1934,2661500,1201500,707,A,,,1951,,,,© Info Flora (Erste Kartiertung der Flora der Schweiz),Wallimann Hans,3816964,LC,K,,,,,,,,LC,,,,,Orobanchaceae,,INN,,
+infoflora:422400,Gefässpflanzen,Alpenrachen,Tozzia alpina L.,Alpnach,OW,,1202-1732,2659500,1201500,707,A,,,1951,,,,© Info Flora (Erste Kartiertung der Flora der Schweiz),Wallimann Hans,3816963,LC,K,,,,,,,,LC,,,,,Orobanchaceae,,INN,,
+infoflora:422400,Gefässpflanzen,Alpenrachen,Tozzia alpina L.,Alpnach,OW,,1199-1685,2658500,1201500,707,A,,,1951,,,,© Info Flora (Erste Kartiertung der Flora der Schweiz),Wallimann Hans,3816962,LC,K,,,,,,,,LC,,,,,Orobanchaceae,,INN,,
+infoflora:422400,Gefässpflanzen,Alpenrachen,Tozzia alpina L.,Alpnach,OW,,943-1438,2659500,1200500,707,A,,,1951,,,,© Info Flora (Erste Kartiertung der Flora der Schweiz),Wallimann Hans,3816959,LC,K,,,,,,,,LC,,,,,Orobanchaceae,,INN,,
+infoflora:422400,Gefässpflanzen,Alpenrachen,Tozzia alpina L.,Hergiswil (NW),NW,,1143-1955,2660500,1203500,707,A,,,1951,,,,© Info Flora (Erste Kartiertung der Flora der Schweiz),Wallimann Hans,3816974,LC,K,,,,,,,,LC,,,,,Orobanchaceae,,INN,,
+infoflora:422400,Gefässpflanzen,Alpenrachen,Tozzia alpina L.,Hergiswil (NW),NW,"Pilatus: Bei der Tellenfadlücke, am Nordhang",1375,2663660,1203290,500,A,,,1954,7,20,,© Naturmuseum Luzern,Wallimann Hans,3926002,LC,K,,,,,,,,LC,,,,,Orobanchaceae,,INN,,
+infoflora:422400,Gefässpflanzen,Alpenrachen,Tozzia alpina L.,Hergiswil (NW),NW,Hergiswil: Unter Lauelen am Rümlig,1100,2663616,1203541,4316,A,,,1973,7,,,© Naturmuseum Luzern,Aregger Josef,4231927,LC,K,,,,,,,,LC,,,,,Orobanchaceae,,INN,,
+infoflora:422400,Gefässpflanzen,Alpenrachen,Tozzia alpina L.,Alpnach,OW,"Alpnach: Chli Schlierental, im Stockwald, bei der Baracke im Schlorpen",1240,2658700,1200600,500,A,,,1982,6,4,,© Naturmuseum Luzern,Wallimann Hans,3925998,LC,K,,,,,,,,LC,,,,,Orobanchaceae,,INN,,
+infoflora:422400,Gefässpflanzen,Alpenrachen,Tozzia alpina L.,Alpnach,OW,"Alpnach: Chli Schlierental, Riedzöpf, beim Längenschwand",1400,2656850,1200490,250,A,,,1984,6,26,,© Naturmuseum Luzern,Wallimann Hans,3925996,LC,K,,,,,,,,LC,,,,,Orobanchaceae,,INN,,
+infoflora:422400,Gefässpflanzen,Alpenrachen,Tozzia alpina L.,Alpnach,OW,,1230-1245,2658376,1200581,7,A,51–100 (Individuen),,2020,5,22,,"© Info Flora, Christoph Hochstrasser",Hochstrasser Christoph,8958848,LC,K,,,,,,,,LC,,,,,Orobanchaceae,,INN,,
+infoflora:450500,Gefässpflanzen,Gelbes Alpen-Stiefmütterchen,Viola lutea Huds.,Hergiswil (NW),NW,"Pilatus, allg.",2110,2662000,1203000,3000,A,,,1853,,,,© Naturmuseum Solothurn,Lüscher-Steinegger Joh.,3996425,LC,K,L,,,,,,,LC,,,,,Violaceae,,INN,,
+infoflora:450500,Gefässpflanzen,Gelbes Alpen-Stiefmütterchen,Viola lutea Huds.,Hergiswil (NW),NW,Pilatus: Zw. Chriesiloch u. Esel,1771-2106,2662000,1203400,300,A,,,1858,7,,,© Naturmuseum Luzern,Steiger J.,4233260,LC,K,L,,,,,,,LC,,,,,Violaceae,,INN,,
+infoflora:450500,Gefässpflanzen,Gelbes Alpen-Stiefmütterchen,Viola lutea Huds.,Alpnach,OW,Pilatus: Tomlishorn,1378-2125,2661076,1202853,700,A,,,1874,8,8,,© Naturmuseum Luzern,?,4233259,LC,K,L,,,,,,,LC,,,,,Violaceae,,INN,,
+infoflora:450500,Gefässpflanzen,Gelbes Alpen-Stiefmütterchen,Viola lutea Huds.,Hergiswil (NW),NW,"Pilatus, allg.",2110,2662000,1203000,3000,A,,,1881,8,3,,© Naturmuseum Solothurn,Suter Ernst,3981386,LC,K,L,,,,,,,LC,,,,,Violaceae,,INN,,
+infoflora:450500,Gefässpflanzen,Gelbes Alpen-Stiefmütterchen,Viola lutea Huds.,Hergiswil (NW),NW,"Pilatus, allg.",2110,2662000,1203000,3000,A,,,1886,7,31,,© Naturmuseum Solothurn,Döbeli S.,3981385,LC,K,L,,,,,,,LC,,,,,Violaceae,,INN,,
+infoflora:450500,Gefässpflanzen,Gelbes Alpen-Stiefmütterchen,Viola lutea Huds.,Hergiswil (NW),NW,"Pilatus, allg.",2110,2662000,1203000,3000,A,,,1889,7,7,,© Naturmuseum Solothurn,Brehokken A.,3981384,LC,K,L,,,,,,,LC,,,,,Violaceae,,INN,,
+infoflora:450500,Gefässpflanzen,Gelbes Alpen-Stiefmütterchen,Viola lutea Huds.,Alpnach,OW,Pilatus: Am Südabhang des Tomlishorns,,2660469,1200552,6191,A,,,1895,8,10,,© Naturmuseum Luzern,Schürmann,4233258,LC,K,L,,,,,,,LC,,,,,Violaceae,,INN,,
+infoflora:450500,Gefässpflanzen,Gelbes Alpen-Stiefmütterchen,Viola lutea Huds.,Alpnach,OW,Pilatus: Ämsigenplanggen,1600,2662730,1202290,500,A,,,1923,6,25,,© Naturmuseum Luzern,Wallimann Hans,3926790,LC,K,L,,,,,,,LC,,,,,Violaceae,,INN,,
+infoflora:450500,Gefässpflanzen,Gelbes Alpen-Stiefmütterchen,Viola lutea Huds.,Alpnach,OW,Pilatus: Tomlisalp,1800-1900,2660620,1202690,500,A,,,1943,7,15,,© Naturmuseum Luzern,Wallimann Hans,3926788,LC,K,L,,,,,,,LC,,,,,Violaceae,,INN,,
+infoflora:450500,Gefässpflanzen,Gelbes Alpen-Stiefmütterchen,Viola lutea Huds.,Alpnach,OW,Mehheggalp,1782-1870,2661700,1202700,100,A,,,1949,2,,,© Info Flora (Erste Kartiertung der Flora der Schweiz),Wallimann Hans,3817980,LC,K,L,,,,,,,LC,,,,,Violaceae,,INN,,
+infoflora:450500,Gefässpflanzen,Gelbes Alpen-Stiefmütterchen,Viola lutea Huds.,Alpnach,OW,Mehheggalp,1153-1326,2663500,1202300,100,A,,,1949,2,,,© Info Flora (Erste Kartiertung der Flora der Schweiz),Wallimann Hans,3817983,LC,K,L,,,,,,,LC,,,,,Violaceae,,INN,,
+infoflora:450500,Gefässpflanzen,Gelbes Alpen-Stiefmütterchen,Viola lutea Huds.,Alpnach,OW,Mehheggalp,1548-1683,2662800,1202400,100,A,,,1949,2,,,© Info Flora (Erste Kartiertung der Flora der Schweiz),Wallimann Hans,3817981,LC,K,L,,,,,,,LC,,,,,Violaceae,,INN,,
+infoflora:450500,Gefässpflanzen,Gelbes Alpen-Stiefmütterchen,Viola lutea Huds.,Alpnach,OW,Mehheggalp,1316-1541,2663400,1203200,100,A,,,1949,2,,,© Info Flora (Erste Kartiertung der Flora der Schweiz),Wallimann Hans,3817984,LC,K,L,,,,,,,LC,,,,,Violaceae,,INN,,
+infoflora:450500,Gefässpflanzen,Gelbes Alpen-Stiefmütterchen,Viola lutea Huds.,Alpnach,OW,Mehheggalp,1665-1802,2661800,1201800,100,A,,,1949,2,,,© Info Flora (Erste Kartiertung der Flora der Schweiz),Wallimann Hans,3817979,LC,K,L,,,,,,,LC,,,,,Violaceae,,INN,,
+infoflora:450500,Gefässpflanzen,Gelbes Alpen-Stiefmütterchen,Viola lutea Huds.,Alpnach,OW,Mehheggalp,1782-1858,2660500,1202500,100,A,,,1949,2,,,© Info Flora (Erste Kartiertung der Flora der Schweiz),Wallimann Hans,3817978,LC,K,L,,,,,,,LC,,,,,Violaceae,,INN,,
+infoflora:450500,Gefässpflanzen,Gelbes Alpen-Stiefmütterchen,Viola lutea Huds.,Alpnach,OW,Mehheggalp,1479-1521,2660600,1201700,100,A,,,1949,2,,,© Info Flora (Erste Kartiertung der Flora der Schweiz),Wallimann Hans,3817977,LC,K,L,,,,,,,LC,,,,,Violaceae,,INN,,
+infoflora:450500,Gefässpflanzen,Gelbes Alpen-Stiefmütterchen,Viola lutea Huds.,Alpnach,OW,Mehheggalp,1351-1446,2660600,1200800,100,A,,,1949,2,,,© Info Flora (Erste Kartiertung der Flora der Schweiz),Wallimann Hans,3817976,LC,K,L,,,,,,,LC,,,,,Violaceae,,INN,,
+infoflora:450500,Gefässpflanzen,Gelbes Alpen-Stiefmütterchen,Viola lutea Huds.,Alpnach,OW,Mehheggalp,1704-1921,2662700,1203200,100,A,,,1949,2,,,© Info Flora (Erste Kartiertung der Flora der Schweiz),Wallimann Hans,3817982,LC,K,L,,,,,,,LC,,,,,Violaceae,,INN,,
+infoflora:450500,Gefässpflanzen,Gelbes Alpen-Stiefmütterchen,Viola lutea Huds.,Alpnach,OW,"Pilatus: Mattalp gegen die Chilchsteine, in den Laubzügen",1600-1850,2662060,1202770,500,A,,,1953,7,8,,© Naturmuseum Luzern,Wallimann Hans,3926797,LC,K,L,,,,,,,LC,,,,,Violaceae,,INN,,
+infoflora:450500,Gefässpflanzen,Gelbes Alpen-Stiefmütterchen,Viola lutea Huds.,Schwarzenberg,LU,Pilatus: Widderfeld W (hinteres Pilatusgebiet),1900,2659500,1202300,750,A,,,1954,7,,,© Naturmuseum Luzern,Aregger Josef,4233254,LC,K,L,,,,,,,LC,,,,,Violaceae,,INN,,
+infoflora:450500,Gefässpflanzen,Gelbes Alpen-Stiefmütterchen,Viola lutea Huds.,Alpnach,OW,Pilatus: Obere Steiglialp,1400-1500,2663160,1203040,500,A,,,1954,7,20,,© Naturmuseum Luzern,Wallimann Hans,3926800,LC,K,L,,,,,,,LC,,,,,Violaceae,,INN,,
+infoflora:450500,Gefässpflanzen,Gelbes Alpen-Stiefmütterchen,Viola lutea Huds.,Alpnach,OW,Pilatus: Mälcheggalp gegen Langenmatt,1400-1460,2660630,1200850,500,A,,,1956,7,26,,© Naturmuseum Luzern,Wallimann Hans,3926799,LC,K,L,,,,,,,LC,,,,,Violaceae,,INN,,
+infoflora:450500,Gefässpflanzen,Gelbes Alpen-Stiefmütterchen,Viola lutea Huds.,Schwarzenberg,LU,Pilatus: Widderfeld W in Magerrasen,1900,2659500,1202300,750,A,,,1960,8,11,,© Naturmuseum Luzern,Aregger Josef,4233253,LC,K,L,,,,,,,LC,,,,,Violaceae,,INN,,
+infoflora:450500,Gefässpflanzen,Gelbes Alpen-Stiefmütterchen,Viola lutea Huds.,Alpnach,OW,"Alpnach: Unter Steigli, am Pilatus, sonnige Bergwiese",1280,2663356,1202769,700,A,,,1977,6,5,,© Naturmuseum Luzern,Zemp Fredi,5722193,LC,K,L,,,,,,,LC,,,,,Violaceae,,INN,,
+infoflora:450500,Gefässpflanzen,Gelbes Alpen-Stiefmütterchen,Viola lutea Huds.,Alpnach,OW,"Südhang des Pilatus, Unter Steigli. Sonnige, extensive Weide.. Kalk.",1280,2663300,1202800,100,A,,,1999,6,5,,"© Info Flora, Fredi Zemp",Zemp Fredi,85239,LC,K,L,,,,,,,LC,"TypoCH 4 : Grünland (Naturrasen, Wiesen und Weiden)",,,,Violaceae,,INN,,
+infoflora:450500,Gefässpflanzen,Gelbes Alpen-Stiefmütterchen,Viola lutea Huds.,Alpnach,OW,Hörnli. Exposition: SE; Hauptvegetation: Halbtrockenrasen mit Arten der Rostseggenhalde und der Blaugrashalde; Verbuschung: 0 - 3 %; Hauptnutzung: Mähwiese oder Mähweide.,1521-1660,2661929,1201479,114,A,,,2002,6,11,,© TWW - PPS,Leibundgut Mary,746252,LC,K,L,,,,,,,LC,,,,,Violaceae,,INN,,
+infoflora:450500,Gefässpflanzen,Gelbes Alpen-Stiefmütterchen,Viola lutea Huds.,Alpnach,OW,Laui. Exposition: E; Hauptvegetation: Rostseggenhalde mit Fettzeigern und Arten der Blaugrashalde; Verbuschung: 0 - 3 %; Hauptnutzung: Mähwiese oder Mähweide.,1453-1629,2660487,1201221,129,A,,,2002,6,11,,© TWW - PPS,Leibundgut Mary,746173,LC,K,L,,,,,,,LC,,,,,Violaceae,,INN,,
+infoflora:450500,Gefässpflanzen,Gelbes Alpen-Stiefmütterchen,Viola lutea Huds.,Alpnach,OW,Ob. Ruessi. Exposition: SE; Hauptvegetation: Halbtrockenrasen mit Arten der Rostseggenhalde und der Blaugrashalde; Verbuschung: 0 - 3 %; Hauptnutzung: Mähwiese oder Mähweide.,1560-1785,2661925,1201793,170,A,,,2002,6,12,,© TWW - PPS,Leibundgut Mary,746341,LC,K,L,,,,,,,LC,,,,,Violaceae,,INN,,
+infoflora:450500,Gefässpflanzen,Gelbes Alpen-Stiefmütterchen,Viola lutea Huds.,Alpnach,OW,Steiglihorn. Exposition: SE; Hauptvegetation: Halbtrockenrasen mit Arten der Blaugrashalde; Verbuschung: 0 - 3 %; Hauptnutzung: Dauerweide.,1641-1653,2663029,1203269,5,A,,,2002,6,13,,© TWW - PPS,Leibundgut Mary,746460,LC,K,L,,,,,,,LC,,,,,Violaceae,,INN,,
+infoflora:450500,Gefässpflanzen,Gelbes Alpen-Stiefmütterchen,Viola lutea Huds.,Alpnach,OW,Ober Steigli. Exposition: SE; Hauptvegetation: Halbtrockenrasen mit Arten der Blaugrashalde; Verbuschung: 0 - 3 %; Hauptnutzung: Dauerweide.,1486,2663086,1202964,5,A,,,2002,6,13,,© TWW - PPS,Leibundgut Mary,746423,LC,K,L,,,,,,,LC,,,,,Violaceae,,INN,,
+infoflora:450500,Gefässpflanzen,Gelbes Alpen-Stiefmütterchen,Viola lutea Huds.,Alpnach,OW,Alpnach; Alp Hinterchretzen oberhalb der Strasse nach Hörnli-Oberruessi.,1548-1563,2662436,1202049,10,A,51–100 (Individuen) / 60-100,,2010,6,27,,© Info Flora,Anonym.,9032777,LC,K,L,,,,,,,LC,,,,,Violaceae,,INN,,
+infoflora:450500,Gefässpflanzen,Gelbes Alpen-Stiefmütterchen,Viola lutea Huds.,Alpnach,OW,Weide am Tomlishorn,2090,2661122,1202820,6,A,11–25 / ca. 20 Ex.,,2012,6,24,,"© Info Flora, Michael Jutzi",Jutzi Michael,3427294,LC,K,L,,,,,,,LC,,,,,Violaceae,,INN,,
+infoflora:450500,Gefässpflanzen,Gelbes Alpen-Stiefmütterchen,Viola lutea Huds.,Alpnach,OW,"Pilatus, Tomlishorn",1781-1798,2660721,1202456,7,A,,,2015,6,28,,"© Info Flora, Philippe Juillerat",Juillerat Philippe,4739847,LC,K,L,,,,,,,LC,,,,,Violaceae,,INN,,
+infoflora:450500,Gefässpflanzen,Gelbes Alpen-Stiefmütterchen,Viola lutea Huds.,Alpnach,OW,Pilatus - Hergiswil,1400,2663256,1202995,3,A,,,2020,5,31,,"© Info Flora, Maja Brawand",Brawand Maja,9077231,LC,K,L,,,,,,,LC,,,,,Violaceae,,INN,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,"Taxonomie/ Systematik
+Taxonomie/ systématique
+Tassonomia/ sistematica",,,,"Fundort
+Station
+Stazione
+",,,,,,,,,,,,,,"Nachweis
+donnée
+segnalazione",,,"Status / Arteigenschaften
+Statut /  Charactérisique de l'espèce
+Stato / caratteristica della specie",,,"ab hier: Angaben von jedem Datenzentrum individuell mitgeliefert
+à partir d'ici: indication mise à disposition de manière individuelle par chaque centre de données
+Informazioni fornite individualmente da ciascun centro dei dati",,,,,,,"Ergänzungen zum Fundort
+Compléments station
+Complementi stazione",,,"Ergänzungen Taxonomie / Systematik
+Compléments taxonomie / systématique
+Complementi tassonomia / sistematica",,,"anthropogene Einflüsse
+influences anthropiques
+influenze antropogeniche",,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+DE,Taxon ID,Gruppe,Trivialname,Taxon,Gemeinde(n),Kanton(e) ,Fundort,Höhe,KoordX,KoordY,Radius,Räumliche Zusammenfassung,Anzahl,n Nachweise ,Jahr,Monat,Tag,Fortpflanzungsnachweis,Herkunft,Beobachter/Sammler,ID Beobachtung,Rote Liste,Priorität CH,UZL,WZL,Massnahmebedarf,Monitoring-Bedarf,NHV,SMARAGD,Info Flora: Kantonaler Schutzstatus,Info Flora: Rote Liste regional,Habitat,Substrat,swisslichens: Ecotyp,Ordnung,Familie,swissfungi: funktionelle Gruppe,Indigenat CH,Standortfremd,Einführung
+FR,Id taxon,Groupe,Nom vernaculaire,Taxon,Commune(s),Canton(s) ,Localité,Altitude,Coordx,Coordy,Rayon,Aggrégation spatiale,Abondance,n données,Année,Mois,Jour,Indice de reproduction,Source,Observateur/collectionneur,Id observation,Liste Rouge,Priorité CH,UZL,WZL,Nécessité mesures,Besoin suivi,NHV,SMARAGD,Info Flora: protection cantonale,Info Flora: liste rouge régionale,habitat,substrat,swisslichens: ecotype,ordre,famille,swissfungi: groupe fonctionelle,Indigénat CH,Allochtone,Introduction
+IT,ID taxon,Gruppo,Nome comune,Taxon,Comune(/i),Cantone(/i) ,Località,Altitudine,Coordx,Coordy,Raggio,Aggregazione spaziale,Numero,n dati,Anno,Mese,Giorno,Indice di riproduzione,Provenienza,Osservatore/,ID osservazione,Lista rossa,Priorità CH,UZL,WZL,Necessità misure,Necessità monitoraggio,NHV,SMARAGD,Info Flora: stato protezione cantonale,Info Flora: lista rossa regionale,habitat,sostrato,swisslichens: ecotipo,ordine,famiglia,swissfungi: gruppo funzionale,Indigena CH,Alloctona,Introduzione
+VDC,TAXONIDCH,GROUP_DE,VERNACULARNAME_*,TAXON,MUNICIPALITY,CANTON,LOCALITY,ELEVATION,SWISS_X,SWISS_Y,RADIUS,ACCURACY,,,OCCURYEAR,OCCURMONTH,OCCURDAY,REPRO,,COLLECTOR,OCCURID,REDLISTCH,PRIORITYCH,UZL,WZL,MEASNEED,MONITOR,NHV,SMARAGD,,,,,,,,,ESTABLISHMENTMEANS=ORIGINCH,ALLOC,ORIGIN
+Beschreibung,Für INFOSPECIES eineindeutige Taxon-ID mit Präfix des Datenzentrums,Artengruppe (deutsche Bezeichnung),An die Sprachversion angepasster Inhalt,Wissenschaftlicher Name,,,,Meter über Meer,"Schweizer Koordinaten: BezugssystemLV95 (CH1903+ / LV95, EPSG 2056)","Schweizer Koordinaten: BezugssystemLV95 (CH1903+ / LV95, EPSG 2056)",Koordinatenungenauigkeit in Meter,"A: Einzelnachweis mit der höchsten Präzision
+B: Einzelnachweis mit auf 1x1km gerundeten Koordinaten. Höhere Präzision auf Anfrage vorhanden
+C: auf ha aggregierte Daten
+D: auf 1x1 km aggregierte Daten",,Anzahl Nachweise / Fundmeldungen bei aggregierten Daten,Bei aggregierten Daten: Jahr des letzten Nachweises,,,"Kategorisierte Angabe zur Fortpflanzung am Standort
+0: kein Fortpflanzungsnachweis
+1: Fortpflanzung möglich
+2: Fortpflanzung  wahrscheinlich
+3: Fortpflanzung nachgewiesen
+None/NULL: keine Information oder Konzept für die Organismengruppe nicht anwendbar",Präzisere Angabe zur Herkunft des Nachweises,Angabe wird in einigen Fällen zurückgehalten,ID des Nachweises beim betreffenden Datenzentrum,"Aktueller Status Rote Liste
+EX/ RE: ausgestorben
+CR(PE): veschollen, vemutlich in der Schweiz ausgestorben
+CR: vom Aussterben bedroht
+EN: stark gefährdet
+VU: gefährdet bzw. verletzlich
+NT: potenziell gefährdet
+LC: nicht gefährdet
+NA : regional nicht anwendbar
+NE: nicht beurteilt
+DD: ungenügende Datenlage","National prioritäre Arten: Prioritätskategorie
+1: sehr hoch
+2: hoch 
+3: mittel
+4: mässig
+K: regionale Priorität 
+NULL: keine","UZL Arten (Umweltziele Landwirtschaft)
+Z: Zielart
+L: Leitart
+LZ: Leit- und Zielart","WZL Arten (Waldzielarten)
+Z: Zielart","National prioritäre Arten: Massnahmebedarf für die Art
+0: kein Massnahmebedarf
+1: möglicher (unsicherer) Massnahmebedarf
+2: klarer Massnahmebedarf 
+-99: Massnahmebedarf (zur Zeit) nicht beurteilbar","National prioritäre Arten: Bedarf, die Bestände zu überwachen
+0: Überwachung nicht nötig
+1: Überwachung eventuell nötig
+2: Überwachung nötig (Periodische Kontrolle der bekannten Standorte unerlässlich. Suche nach weiteren Standorten empfohlen)
+9: zur Zeit nicht beurteilbar
+n: nicht evaluiert","Geltender nationaler Schutzstatus
+451.1/2: Liste der geschützten Pflanzen - SR 451.1 Verordnung über den Natur- und Heimatschutz (NHV), Anh. 2
+451.1/3: Liste der geschützten Tiere - SR 451.1 Verordnung über den Natur- und Heimatschutz (NHV), Anh. 3
+451.1/4: Liste der kantonal zu schützenden Arten - SR 451.1 Verordnung über den Natur- und Heimatschutz (NHV), Anh. 4
+922.0-5: Bedingt jagdbar. SR 922.0 Bundesgesetz über die Jagd und den Schutz wildlebender Säugetiere und Vögel (Jagdgesetz, JSG), Art. 5
+922.0-7: Landesweit geschützt. SR 922.0 Bundesgesetz über die Jagd und den Schutz wildlebender Säugetiere und Vögel (Jagdgesetz, JSG), Art. 7
+923.01-1: Bedingt fangbar. SR 923.01 Verordnung zum Bundesgesetz über die Fischerei (VBGF), Art. 1,2
+923.01-2a: Landesweit geschützt. SR 923.01 Verordnung zum Bundesgesetz über die Fischerei (VBGF), Art. 2a","Bener Konvention, Resolution 6, revidierter Anhang I bezüglich der Arten, welche besonderer Schutzmassnahmen des Lebensraumes bedürfen
+Y: Art im Anhang angeführt (""Smaragd Art"")",Schutzstatus aufgrund der jeweiligen kantonalen Gesetzgebung,"Regionale Rote Liste 2019: Status für die entsprechende Biogeografische Region. 
+Die Regionale Rote Liste wurde im Auftrag des BAFU und der Kantone erarbeitet. Die Anerkennung durch das BAFU ist noch hängig.
+",,,,,,,"Art des Vorkommens in der Schweiz 
+IEN : einheimische Art, endemisch für die Schweiz (bekanntes Verbreitungsareal auf die Schweiz beschränkt)
+IEP : einheimische Art, teilendemisch (bekanntes Verbreitungsareal eng begrenzt [rund 10'000km2], auf benachbarte Länder übergreifend)
+INN : einheimische Art (nicht endemisch)
+INM : einheimische Art, wandernd
+INR : einheimische Art, regional eingeführt
+NEO : eingeführte Art, zur Zeit nicht als invasiv eingestuft
+NLI : eingeführte invasive Art (nicht in Anh. 2 FrSV gelistet)
+NLS : eingeführte invasive Art der schwarzen Liste (nicht in Anh. 2 FrSV gelistet)
+NLV : eingeführte invasive Art, verboten gemäss Freisetzungsverordnung, Anhang 2  (SR 814.911 FrSV)
+OTH : andere","Kennzeichnung standortfremder Vorkommen einheimischer Arten
+1: regional standortfremd
+2: am Standort eingeführt","Hinweis auf Einführung / anthropogen unterstütztes Vorkommen am Standort
+I: am Standort eingeführt
+Ix: anthropogen unterstütztes Auftreten am Standort vermutet
+A: Auftreten als atypisch/ erratisch/ sporadisch eingestuft
+C: kultiviert, gezüchtet
+S: verwildert, aus Zucht entwichen
+R: Wiederansiedlung (Varianten: legal Ro, illegal Ri)
+P: Populationsstärkung (kontrolliert/ ab lokalen Populationen)
+T: Umsiedlung
+"
+Description,Identifiant de taxon univoque INFOSPECIES avec préfixe du centre de données,Groupe d'espèces (nom français),Contenu adapté à la version linguistique,Nom scientifique,,,,Mètres au-dessus du niveau de la mer,"Coordonnées suisses: système de référence MN95 (CH1903+ / MN95, EPSG 2056)","Coordonnées suisses: système de référence MN95 (CH1903+ / MN95, EPSG 2056)",Imprécision des coordonnées en mètres,"A: Observation individuelle avec la précision maximale
+B: Observation individuelle avec les coordonnées arrondies à 1x1 km. Plus haute précision accessible sur demande
+C: Données agrégées à l'hectare
+D: Données agrégées à 1x1 km",,Nombre d'observations en cas de données agrégées,En cas de données agrégées: année de la dernière observation,,,"Catégorie relative à la reproduction sur site
+0: sans indice de reproduction
+1: reproduction possible
+2: reproduction probable
+3: reproduction certaine
+None/NULL: sans information ou concept non-applicable pour le groupe d'organisme",Indication plus précise par rapport à l'origine de l'observation,L'information n'est pas divulguée dans certains cas,Identifiant de l'observation du centre de données concerné,"Statut de la liste rouge en vigueur
+EX / RE: éteint
+CR(PE): probablement éteint («disparu»)
+CR: en danger d'extinction
+EN: très menacé
+VU: menacé, vulnérable
+NT: potentiellement menacé
+LC: non menacé
+NE: non évalué
+NA: non-applicable régionalement
+DD: données insuffisantes","Espèces prioritaires au niveau national: Catégorie de priorité
+1: très élevée
+2: élevée
+3: moyenne
+4: basse
+K: priorité régionale
+NULL: aucune","Espèces OEA (objectifs environnementaux pour l'agriculture):
+Z: Espèce cible
+L: Espèce caractéristique","Espèces EPN (forestières cibles):
+Z: Espèce cible","Espèces prioritaires au niveau national. Nécessité de prendre des mesures pour les espèces:
+0: Il n'est pas nécessaire de prendre des mesures
+1: Il n'est pas certain qu'il soit nécessaire de prendre des mesures 
+2: Il est clairement nécessaire de prendre des mesures","Espèces prioritaires au niveau national. Nécessité de suivi des espèces:
+0: suivi des populations inutile
+1: suivi des populations potentiellement utile
+2: suivi des populations indispensable
+99: ne peut être évalué (actuellement)","Statut de protection national actuel:
+451.1/2: Liste de la flore protégée - RS 451.1 Ordonnance sur la protection de la nature et du paysage (OPN), Annexe 2
+451.1/3: Liste de la faune protégée - RS 451.1 Ordonnance sur la protection de la nature et du paysage (OPN), Annexe 3
+451.1/4: Liste des espèces à protéger au niveau cantonal - RS 451.1 Ordonnance sur la protection de la nature et du paysage (OPN), Annexe 4
+922.0-5: Chassable sous conditions - RS 922.0 Loi fédérale sur la chasse et la protection des mammifères et oiseaux sauvages (Loi sur la chasse, LChP), Art. 5
+922.0-7: Protégée au niveau national - RS 922.0 Loi fédérale sur la chasse et la protection des mammifères et oiseaux sauvages (Loi sur la chasse, LChP), Art. 5,7
+923.01-1: Pêchable sous conditions -RS 923.01 Loi fédérale sur la pêche (LFSP), Art. 1, 2
+923.01-2a: Protégée au niveau national - RS 923.01 Loi fédérale sur la pêche (LFSP), Art. 2a","Convention de Berne, Résolution 6, Annexe I révisée concernant les espèces nécessitant des mesures spécifiques de conservation de l'habitat:
+Y: Espèce figurant dans l'annexe (""Espèce Émeraude"")",Statut de protection selon la législation cantonale correspondante,"Liste Rouge régionale 2019: statut selon la région biogéographique correspondante.
+La Liste rouge régionale a été établie sur mandat de l'OFEV et des cantons. La reconnaissance par l'OFEV est en attente.
+",,,,,,,"Type de présence en Suisse:
+IEN: espèce indigène, endémique à la Suisse (répartition connue se limitant à la Suisse)
+IEP: espèce indigène, endémisme partagé (répartition connue très limitée [env. 10'000 km2], débordant sur les pays voisins)
+INN: espèce indigène (non-endémique)
+INM: espèce indigène migratrice
+INR: espèce indigène, régionalement introduite
+NEO: espèce introduite (potentiellement invasive)
+NLI: espèce introduite invasive (non-listée dans l'annexe 2 ODE)
+NLS: espèce introduite invasive présente dans la liste noire (non-listée dans l'annexe 2 ODE)
+NLV: espèce introduite invasive interdite selon l'annexe 2 de l'ordonnance sur la dissémination dans l'environnement (SR 814.911 ODE)
+OTH: autre","Occurrences allochtones d'espèces indigènes
+1: allochtone dans la région
+2: introduite dans le site","Indication d'introduction / de favorisation anthropique sur le site:
+I: introduit sur le site
+Ix: suspicion de favorisation anthropique sur le site
+A: occurrence considérée atypique / erratique / sporadique
+C: cultivé, élevé
+S: subspontané, échappé de culture ou d'élevage
+R: réintroduction (variantes: légale Ro, illégale Ri)
+P: renforcement de populations (contrôlé, issu de populations locales)
+T: translocations"
+Descrizione,ID di taxon INFOSPECIES univoco con prefisso del centro dei dati,Gruppo di specie (nome italiano),Contenuto adatto alla versione linguisitca,nome scientifico,,,,Metri sul livello del mare,"Coordinate svizzere (sistema di riferimento MN95 (CH1903+ / MN95, EPSG 2056)","Coordinate svizzere (sistema di riferimento MN95 (CH1903+ / MN95, EPSG 2056)",inesattezza delle coordinate  in metri,"A: Osservazione individuale con la massima precisione
+B: Osservazione individuale con coordinate arrotondate a 1x1 km. Maggiore precisione disponibile su richiesta
+C: dati aggregati per ettaro
+D: dati aggregati per 1x1 km",,Numero d'osservazioni nel caso di dati aggregati,Per dati aggregati: anno dell'ultima osservazione,,,"Informazioni sulla riproduzione sul sito
+0: nessuna prova di riproduzione
+1: riproduzione possibile
+2: riproduzione probabile
+3: rispoduzione dimostrata
+None/NULL: nessuna informazione o concetto non applicabile al gruppo di specie",Informazioni più precise sull'origine dell'osservazione,Le informazioni sono trattenute in alcuni casi,ID dell'osservazione presso il centro die dati in questione,"Statuto secondo la lasta rossa valida
+EX/ RE: estinto
+CR(PE):  probabilmente estinto (""irreperibile"")
+CR: minacciato d’estinzione
+EN: fortemente minacciato
+VU: minacciato, vulnerabile
+NT:  potenzialmente minacciato
+LC:  non minacciato
+NA: non applicabile regionalmente
+NE: non valutato
+DD: dati insufficienti","Specie prioritari a livello nazionale: Categoria di priorità
+1: molto elevate
+2: elevate
+3: media
+4: bassa
+K: priorità regionale
+NULL: nessuna","Specie UZL (Obiettivi ambientali per l’agricoltura)
+Z: Specie bersaglio
+L. Specie caratteristica","specie forestali bersaglio
+Z. specie bersaglio","Specie prioritari a livello nazionale: Necessità di prendere delle misure per la specie
+0: non è necessario prendere delle misure
+1: non è chiaro se sia necessario prendere delle misure
+2 : è assolutamente necessario prendere delle misure
+99 : non puo essere valutato (attualmente) ","Specie prioritari a livello nazionale: Necessità di sorvegliare (monitorare) le popolazioni
+0 : monitoraggio inutile
+1 : monitoraggio potenzialmenteutile
+2 : monitoraggio indispensabile
+99: non può essere valutato (attualmente)","Stato di protezione legale nazionale valide
+451.1/2 : Elenco delle specie vegetali protette - RS 451.1 Ordinanza sulla protezione della natura e del paesaggio (OPN), Elenco 2
+451.1/3 : Elenco delle specie animali protette - RS 451.1 Ordinanza sulla protezione della natura e del paesaggio (OPN), Elenco  3
+451.1/4 : Elenco delle specie da proteggere a livello cantonale -RS 451.1 Ordinanza sulla protezione della natura e del paesaggio (OPN), Elenco  4
+922.0-5 : cicciabile sotto condizioni - RS 922.0 Legge federale su la caccia e la protezione dei mammiferi e degli uccelli selvatici (Legge sulla caccia, LCP), Art. 5
+922.0-7 : proteggioto al livello nazionale - RS 922.0 Legge federale su la caccia e la protezione dei mammiferi e degli uccelli selvatici (Legge sulla caccia, LCP), Art. 5,7
+923.01-1 : da pescare sotto condizioni -RS 923.01 Legge federale sulla pesca  (LFSP), Art. 1, 2
+923.01-2a : proteggioto al livello nazionale - RS 923.01 Legge federale sulla pesca (LFSP), Art. 2a","Convenzione di Berna, risoluzione 6, appendice I rivisto per quanto riguarda le specie che richiedono misure di protezione speciali nell'habitat
+Y: speciea elencato nel0appendice I (""species Smaragd"")",Stato di protezione secondo la rispettiva legislazione cantonale,"Liste Rossa regionale 2019: statuto per la regione biogeografica rispettiva.
+La Lista rossa regionale è stata redatta per conto dell'UFAM e dei Cantoni. Il riconoscimento dell'UFAM è ancora in sospeso.",,,,,,,"Tipo di presenza in Svizzera
+IEN : specie indigena, endemismo svizzero (area di distribuzione limitata alla svizzera)
+IEP : specie indigena, endemismo parziale (area di distribuzione limitata [ca. 10'000km2], compresi i paesi circostanti)
+INN : specie indigena (non-endemico)
+INM : specie indigena migratoria
+INR : specie indigena, regionalmente introdotta (potenzialmente invasiva)
+NEO : specie introdotta
+NLI : specie introdotta invasiva (non elencata nel allegato 2 dans l'annexe 2 OEDA)
+NLV :  specie introdotta invasiva vietata secondo l'allegato 2 dell'ordinanza sull’utilizzazione di organismi nell’ambiente(SR 814.911 OEDE)
+OTH : altro","Identificazione di popolazioni innaturali di specie autoctone
+1 : alloctone nella regione
+2: introdutto nel sito","Indicazione dell'introduzione / presenza antropogenicamente promossa nel sito
+I : introdutto nel sito
+Ix : supposizione di presenza antropogenicamente promossa nel sito
+A : Aspetto classificato come atipico / irregolare / sporadico
+C : coltivato, allevato
+S : Scappata di popolazione coltivate / allevate
+R :  Reintroduzione (varianti: legale Ri,illegale Ri)
+P : rafforzamento della popolazione (controllato / di popolazione locale
+T: translocazione"
+Links,,,,,,,,,,,,,,,,,,Info Link,,,,Info Link,Info Link,Info Link,Info Link,,,Info Link,Info Link,,Info Link,,,,,,,,,
