@@ -1,15 +1,8 @@
-# top left of screenshot 	47.01244, 8.12844
-
 # visualize_plant_data_from_csv
 
-## Features:
--Trivialname
+## The idea is to make a plot scatter of an array of selected coordinates. 
 
--Koordx, Koordy
 
--Radius
-
--Jahr (advanced)
 ## Tkinter Docs
 https://tkdocs.com/tutorial/
 
