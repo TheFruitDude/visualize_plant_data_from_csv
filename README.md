@@ -4,7 +4,7 @@ This project aims to visualize occurences of plants. The notebook can visualize 
 This jupyter notebook includes widgets. Dropdown Menu to select the plant, and wo-sided Sliders to set the year range. 
 
 
-
+![Alt text](previews_visualizer.png?raw=true)
 
 
 ## Very nice links
