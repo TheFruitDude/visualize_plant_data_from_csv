@@ -1,7 +1,12 @@
 # visualize_plant_data_from_csv
 
-This project aims to visualize occurences of plants. The notebook can visualize the Locations of each plant species. Species density has not been examined. This would be an interesting idea as well. (Idea: Imagine a connection between density and Opacity)
-This jupyter notebook includes widgets. Dropdown Menu to select the plant, and wo-sided Sliders to set the year range. 
+This project aims to visualize plant population. Species density (per area) has not been examined. This would be an interesting idea as well. (Idea: Imagine a connection between density and Opacity)
+
+This jupyter notebook works with ipywidgets. This means user input is possible, while the user can be oblivious to the code. I have to try to show this in binder. 
+
+The notebook includes a dropdown Menu to select the plant, and a slider to set the range. 
+
+TODO: Dynamically update the contents. (instead of having to press the damn button each time)
 
 
 ![Alt text](previews_visualizer.png?raw=true)
