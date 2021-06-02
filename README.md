@@ -6,14 +6,14 @@ This project aims to visualize plant population. Species density (per area) has 
 This jupyter notebook works with ipywidgets. This means user input is possible, while the user can be oblivious to the code. I have to try to show this in binder. The notebook includes a dropdown Menu to select the plant, and a slider to set the range. 
 
 
-##TODO
+## TODO:
 -Dynamically update the content. (instead of having to press the damn button each time)
 
 
 ![Alt text](previews_visualizer.png?raw=true)
 
 
-## Very nice links
+### Very nice links
 https://www.bigendiandata.com/2017-06-27-Mapping_in_Jupyter/
 
 Basemap Blog Post
