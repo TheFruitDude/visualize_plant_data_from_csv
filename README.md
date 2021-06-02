@@ -1,8 +1,8 @@
-# visualize_plant_data_from_csv
+# Overview
 
 This project aims to visualize plant population. Species density (per area) has not been examined. This would be an interesting idea as well. (Idea: Imagine a connection between density and Opacity)
 
-## visualize_plant_data_from_csv
+## ipywidgets
 This jupyter notebook works with ipywidgets. This means user input is possible, while the user can be oblivious to the code. I have to try to show this in binder. The notebook includes a dropdown Menu to select the plant, and a slider to set the range. 
 
 
